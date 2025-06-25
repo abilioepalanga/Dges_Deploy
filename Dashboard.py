@@ -683,4 +683,5 @@ def main():
             st.info("Selecione cursos para comparar usando os filtros acima.")
 
 if __name__ == "__main__":
-    main()
+    main()#   t r i g g e r   r e b u i l d  
+ 
