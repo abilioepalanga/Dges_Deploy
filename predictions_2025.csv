@@ -1,0 +1,787 @@
+ano,course_id,codigo_instituicao,instituicao,codigo_curso,curso,vagas_iniciais,nota_ultimo_colocado_prevista,colocados_previsto,lower_95_ci_colocados,upper_95_ci_colocados,lower_95_ci_nota_ultimo_colocado,upper_95_ci_nota_ultimo_colocado
+2025,8002_3131,3131,Instituto Politécnico do Porto - Escola Superior de Educação,8002,Línguas e Culturas Estrangeiras,55.0,165.1,55.0,53.0,55.0,53.0,55.0
+2025,8005_3011,3011,Universidade de Aveiro - Instituto Superior de Contabilidade e Administração de Aveiro,8005,Marketing (regime pós-laboral),20.0,146.7,19.0,10.0,20.0,10.0,20.0
+2025,8005_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,8005,Marketing (regime pós-laboral),27.0,156.0,26.0,24.0,27.0,24.0,27.0
+2025,8014_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,8014,Serviço Social (regime pós-laboral),32.0,138.5,32.0,30.0,32.0,30.0,32.0
+2025,8014_3101,3101,Instituto Politécnico de Leiria - Escola Superior de Educação e Ciências Sociais,8014,Serviço Social (regime pós-laboral),20.0,125.1,18.0,13.0,20.0,13.0,20.0
+2025,8014_3121,3121,Instituto Politécnico de Portalegre - Escola Superior de Educação e Ciências Sociais,8014,Serviço Social (regime pós-laboral),15.0,117.5,3.0,1.0,5.0,1.0,5.0
+2025,8014_6800,6800,ISCTE - Instituto Universitário de Lisboa,8014,Serviço Social (regime pós-laboral),14.0,145.0,13.0,4.0,14.0,4.0,14.0
+2025,8015_3031,3031,Instituto Politécnico do Cávado e do Ave - Escola Superior de Gestão,8015,Solicitadoria (regime pós-laboral),35.0,144.2,34.0,33.0,35.0,33.0,35.0
+2025,8015_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,8015,Solicitadoria (regime pós-laboral),25.0,130.9,21.0,10.0,25.0,10.0,25.0
+2025,8015_3117,3117,Instituto Politécnico de Lisboa - Instituto Superior de Contabilidade e Administração de Lisboa,8015,Solicitadoria (regime pós-laboral),51.0,145.6,51.0,49.0,51.0,49.0,51.0
+2025,8015_3138,3138,Instituto Politécnico do Porto - Escola Superior de Tecnologia e Gestão,8015,Solicitadoria (regime pós-laboral),19.0,150.2,18.0,12.0,19.0,12.0,19.0
+2025,8029_3063,3063,Instituto Politécnico de Coimbra - Instituto Superior de Contabilidade e Administração de Coimbra,8029,Finanças e Contabilidade,30.0,144.9,29.0,27.0,30.0,27.0,30.0
+2025,8029_6800,6800,ISCTE - Instituto Universitário de Lisboa,8029,Finanças e Contabilidade,72.0,157.2,72.0,69.0,72.0,69.0,72.0
+2025,8031_0140,140,Universidade dos Açores - Faculdade de Ciências Agrárias e do Ambiente,8031,Ciências Farmacêuticas (Preparatórios),13.0,149.3,4.0,1.0,12.0,1.0,12.0
+2025,8036_0903,903,Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia,8036,Conservação - Restauro,24.0,147.0,23.0,16.0,24.0,16.0,24.0
+2025,8067_0502,502,Universidade de Coimbra - Faculdade de Direito,8067,Administração Público-Privada,41.0,165.6,41.0,39.0,41.0,39.0,41.0
+2025,8083_0160,160,Universidade dos Açores - Faculdade de Ciências e Tecnologia,8083,Ciclo Básico de Medicina,50.0,177.6,50.0,49.0,50.0,49.0,50.0
+2025,8083_1309,1309,Universidade da Madeira - Faculdade de Ciências da Vida,8083,Ciclo Básico de Medicina,38.0,178.3,38.0,36.0,38.0,36.0,38.0
+2025,8086_0140,140,Universidade dos Açores - Faculdade de Ciências Agrárias e do Ambiente,8086,Medicina Veterinária (Preparatórios),21.0,164.6,19.0,11.0,21.0,11.0,21.0
+2025,8093_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,8093,Animação Socioeducativa (regime pós-laboral),20.0,119.6,16.0,12.0,20.0,12.0,20.0
+2025,8097_3138,3138,Instituto Politécnico do Porto - Escola Superior de Tecnologia e Gestão,8097,Ciências Empresariais (regime pós-laboral),21.0,148.3,20.0,15.0,21.0,15.0,21.0
+2025,8102_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,8102,Administração Pública (regime pós-laboral),41.0,139.9,41.0,39.0,41.0,39.0,41.0
+2025,8104_1506,1506,Universidade de Lisboa - Faculdade de Letras,8104,"Estudos Artísticos, variante de Artes do Espetáculo",49.0,158.3,49.0,48.0,49.0,48.0,49.0
+2025,8109_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,8109,Sociologia (regime pós-laboral),20.0,144.5,19.0,16.0,20.0,16.0,20.0
+2025,8109_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,8109,Sociologia (regime pós-laboral),30.0,135.5,29.0,27.0,30.0,27.0,30.0
+2025,8109_6800,6800,ISCTE - Instituto Universitário de Lisboa,8109,Sociologia (regime pós-laboral),34.0,136.0,33.0,30.0,34.0,30.0,34.0
+2025,8111_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,8111,Gestão de Recursos Humanos (regime pós-laboral),52.0,148.6,52.0,52.0,52.0,52.0,52.0
+2025,8111_3153,3153,Instituto Politécnico de Setúbal - Escola Superior de Ciências Empresariais,8111,Gestão de Recursos Humanos (regime pós-laboral),45.0,137.2,45.0,42.0,45.0,42.0,45.0
+2025,8114_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,8114,Turismo (regime pós-laboral),25.0,128.7,21.0,9.0,25.0,9.0,25.0
+2025,8126_3103,3103,Instituto Politécnico de Leiria - Escola Superior de Artes e Design,8126,Design Gráfico e Multimédia (regime pós-laboral),30.0,121.3,29.0,27.0,30.0,27.0,30.0
+2025,8138_7005,7005,Instituto Politécnico de Beja - Escola Superior de Saúde,8138,Terapia Ocupacional,25.0,129.3,20.0,8.0,25.0,8.0,25.0
+2025,8138_7045,7045,Instituto Politécnico de Leiria - Escola Superior de Saúde,8138,Terapia Ocupacional,35.0,145.3,34.0,33.0,35.0,33.0,35.0
+2025,8138_7230,7230,Instituto Politécnico do Porto - Escola Superior de Saúde,8138,Terapia Ocupacional,46.0,146.3,46.0,43.0,46.0,43.0,46.0
+2025,8141_7210,7210,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia da Saúde de Coimbra,8141,Audiologia,30.0,132.2,29.0,27.0,30.0,27.0,30.0
+2025,8141_7230,7230,Instituto Politécnico do Porto - Escola Superior de Saúde,8141,Audiologia,20.0,141.6,19.0,17.0,20.0,17.0,20.0
+2025,8143_7230,7230,Instituto Politécnico do Porto - Escola Superior de Saúde,8143,Ortóptica,22.0,138.7,21.0,18.0,22.0,18.0,22.0
+2025,8149_7015,7015,Instituto Politécnico de Bragança - Escola Superior de Saúde de Bragança,8149,Dietética e Nutrição,36.0,125.5,23.0,9.0,36.0,9.0,36.0
+2025,8149_7035,7035,Universidade do Algarve - Escola Superior de Saúde,8149,Dietética e Nutrição,27.0,138.8,26.0,24.0,27.0,24.0,27.0
+2025,8149_7045,7045,Instituto Politécnico de Leiria - Escola Superior de Saúde,8149,Dietética e Nutrição,29.0,139.0,29.0,26.0,29.0,26.0,29.0
+2025,8149_7210,7210,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia da Saúde de Coimbra,8149,Dietética e Nutrição,43.0,145.4,43.0,40.0,43.0,40.0,43.0
+2025,8149_7220,7220,Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa,8149,Dietética e Nutrição,46.0,157.0,46.0,43.0,46.0,43.0,46.0
+2025,8152_7220,7220,Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa,8152,Ortoprotesia,30.0,145.5,29.0,26.0,30.0,26.0,30.0
+2025,8156_3034,3034,Instituto Politécnico do Cávado e do Ave - Escola Superior de Hotelaria e Turismo,8156,Gestão de Atividades Turísticas,44.0,133.1,44.0,41.0,44.0,41.0,44.0
+2025,8251_0604,604,Universidade de Évora - Escola de Ciências Sociais,8251,História e Arqueologia,39.0,145.1,39.0,37.0,39.0,37.0,39.0
+2025,8258_0203,203,Universidade do Algarve - Faculdade de Ciências e Tecnologia,8258,Arquitetura Paisagista,21.0,127.7,20.0,12.0,21.0,12.0,21.0
+2025,8258_1103,1103,Universidade do Porto - Faculdade de Ciências,8258,Arquitetura Paisagista,25.0,150.4,25.0,23.0,25.0,23.0,25.0
+2025,8258_1515,1515,Universidade de Lisboa - Instituto Superior de Agronomia,8258,Arquitetura Paisagista,21.0,143.4,20.0,18.0,21.0,18.0,21.0
+2025,8259_0906,906,Universidade Nova de Lisboa - Instituto Superior de Estatística e Gestão de Informação,8259,Sistemas e Tecnologias de Informação,43.0,166.8,43.0,40.0,43.0,40.0,43.0
+2025,8262_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,8262,Biologia Humana,32.0,136.8,28.0,14.0,32.0,14.0,32.0
+2025,8264_3131,3131,Instituto Politécnico do Porto - Escola Superior de Educação,8264,Artes Visuais e Tecnologias Artísticas,28.0,164.0,28.0,26.0,28.0,26.0,28.0
+2025,8288_3138,3138,Instituto Politécnico do Porto - Escola Superior de Tecnologia e Gestão,8288,Sistemas de Informação para Gestão,22.0,127.1,21.0,18.0,22.0,18.0,22.0
+2025,8296_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,8296,Gestão Industrial,35.0,118.2,9.0,3.0,16.0,3.0,16.0
+2025,8307_3112,3112,Instituto Politécnico de Lisboa - Escola Superior de Educação,8307,Artes Visuais e Tecnologias,85.0,145.7,85.0,83.0,85.0,83.0,85.0
+2025,8309_3045,3045,"Instituto Politécnico de Bragança - Escola Superior de Comunicação, Administração e Turismo de Mirandela",8309,Design de Jogos Digitais,56.0,101.1,28.0,9.0,48.0,9.0,48.0
+2025,8311_3032,3032,Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia,8311,Engenharia em Desenvolvimento de Jogos Digitais,37.0,122.6,37.0,35.0,37.0,35.0,37.0
+2025,8316_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,8316,Engenharia de Sistemas,40.0,146.2,40.0,38.0,40.0,38.0,40.0
+2025,8323_3042,3042,Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança,8323,Línguas Estrangeiras: Inglês e Espanhol,38.0,135.9,30.0,12.0,38.0,12.0,38.0
+2025,8337_3081,3081,Universidade do Algarve - Escola Superior de Educação e Comunicação,8337,Imagem Animada,35.0,136.4,34.0,33.0,35.0,33.0,35.0
+2025,8339_3091,3091,"Instituto Politécnico da Guarda - Escola Superior de Educação, Comunicação e Desporto",8339,Comunicação Multimédia,50.0,113.8,32.0,24.0,47.0,24.0,47.0
+2025,8341_3034,3034,Instituto Politécnico do Cávado e do Ave - Escola Superior de Hotelaria e Turismo,8341,Gestão de Atividades Turísticas (regime pós-laboral),30.0,122.1,28.0,14.0,30.0,14.0,30.0
+2025,8342_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,8342,Comunicação Organizacional (regime pós-laboral),25.0,139.5,25.0,23.0,25.0,23.0,25.0
+2025,8358_1504,1504,Universidade de Lisboa - Faculdade de Direito,8358,Direito (regime pós-laboral),82.0,155.4,82.0,79.0,82.0,79.0,82.0
+2025,8363_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,8363,Administração Pública e Políticas do Território (regime pós-laboral),33.0,132.1,33.0,30.0,33.0,30.0,33.0
+2025,8364_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,8364,Relações Internacionais (regime pós-laboral),52.0,154.7,52.0,52.0,52.0,52.0,52.0
+2025,8366_6800,6800,ISCTE - Instituto Universitário de Lisboa,8366,Informática e Gestão de Empresas (regime pós-laboral),35.0,144.9,34.0,33.0,35.0,33.0,35.0
+2025,8374_3042,3042,Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança,8374,Línguas para Relações Internacionais,59.0,143.8,55.0,30.0,59.0,30.0,59.0
+2025,8377_1515,1515,Universidade de Lisboa - Instituto Superior de Agronomia,8377,Engenharia Florestal e dos Recursos Naturais,20.0,111.8,10.0,6.0,16.0,6.0,16.0
+2025,8393_0505,505,Universidade de Coimbra - Faculdade de Letras,8393,Português,36.0,150.6,36.0,35.0,36.0,35.0,36.0
+2025,8398_3138,3138,Instituto Politécnico do Porto - Escola Superior de Tecnologia e Gestão,8398,Segurança Informática em Redes de Computadores,22.0,141.2,21.0,18.0,22.0,18.0,22.0
+2025,8399_1502,1502,Universidade de Lisboa - Faculdade de Belas-Artes,8399,Desenho,54.0,170.3,54.0,53.0,54.0,53.0,54.0
+2025,8405_3012,3012,Universidade de Aveiro - Escola Superior de Tecnologia e Gestão de Águeda,8405,Gestão da Qualidade,24.0,136.3,23.0,21.0,24.0,21.0,24.0
+2025,8407_3163,3163,Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão,8407,Engenharia da Computação Gráfica e Multimédia,43.0,119.6,17.0,5.0,41.0,5.0,41.0
+2025,8408_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,8408,Química Medicinal,22.0,118.0,16.0,13.0,21.0,13.0,21.0
+2025,8409_3032,3032,Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia,8409,Engenharia de Sistemas Informáticos,37.0,146.2,37.0,35.0,37.0,35.0,37.0
+2025,8411_1514,1514,Universidade de Lisboa - Instituto de Geografia e Ordenamento do Território,8411,Planeamento e Gestão do Território,48.0,143.0,48.0,47.0,48.0,47.0,48.0
+2025,8413_1506,1506,Universidade de Lisboa - Faculdade de Letras,8413,Artes e Humanidades,62.0,143.5,62.0,61.0,62.0,61.0,62.0
+2025,8417_3032,3032,Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia,8417,Engenharia de Sistemas Informáticos (regime pós-laboral),32.0,124.5,32.0,29.0,32.0,29.0,32.0
+2025,8438_3113,3113,Instituto Politécnico de Lisboa - Escola Superior de Comunicação Social,8438,Relações Públicas e Comunicação Empresarial (regime pós-laboral),29.0,150.9,29.0,26.0,29.0,26.0,29.0
+2025,8439_3113,3113,Instituto Politécnico de Lisboa - Escola Superior de Comunicação Social,8439,Publicidade e Marketing (regime pós-laboral),31.0,155.1,31.0,29.0,31.0,29.0,31.0
+2025,8442_3139,3139,Instituto Politécnico do Porto - Escola Superior de Hotelaria e Turismo,8442,Gestão das Atividades Turísticas (regime pós-laboral),30.0,129.9,27.0,16.0,30.0,16.0,30.0
+2025,8458_1506,1506,Universidade de Lisboa - Faculdade de Letras,8458,Estudos Gerais,61.0,153.4,61.0,59.0,61.0,59.0,61.0
+2025,8464_3164,3164,Instituto Politécnico de Viana do Castelo - Escola Superior de Ciências Empresariais,8464,Gestão da Distribuição e Logística,31.0,120.8,29.0,22.0,31.0,22.0,31.0
+2025,8509_0201,201,Universidade do Algarve - Faculdade de Ciências Humanas e Sociais,8509,Património Cultural e Arqueologia,30.0,130.1,29.0,18.0,30.0,18.0,30.0
+2025,8514_3105,3105,Instituto Politécnico de Leiria - Escola Superior de Turismo e Tecnologia do Mar,8514,Gestão de Eventos,24.0,128.5,23.0,19.0,24.0,19.0,24.0
+2025,8515_3152,3152,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal,8515,Tecnologias de Energia,34.0,115.8,33.0,29.0,34.0,29.0,34.0
+2025,8516_3164,3164,Instituto Politécnico de Viana do Castelo - Escola Superior de Ciências Empresariais,8516,Organização e Gestão Empresariais,30.0,137.3,29.0,24.0,30.0,24.0,30.0
+2025,8517_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,8517,Tecnologia e Design de Mobiliário,37.0,130.0,15.0,6.0,37.0,6.0,37.0
+2025,8519_3063,3063,Instituto Politécnico de Coimbra - Instituto Superior de Contabilidade e Administração de Coimbra,8519,Secretariado de Direção e Administração,43.0,143.6,43.0,40.0,43.0,40.0,43.0
+2025,8524_0160,160,Universidade dos Açores - Faculdade de Ciências e Tecnologia,8524,Proteção Civil e Gestão de Riscos,24.0,116.1,15.0,5.0,24.0,5.0,24.0
+2025,8525_3103,3103,Instituto Politécnico de Leiria - Escola Superior de Artes e Design,8525,Design de Produto - Cerâmica e Vidro,24.0,142.7,24.0,21.0,24.0,21.0,24.0
+2025,9002_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,9002,Administração Pública,68.0,147.9,68.0,65.0,68.0,65.0,68.0
+2025,9002_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9002,Administração Pública,29.0,138.8,28.0,25.0,29.0,25.0,29.0
+2025,9003_0203,203,Universidade do Algarve - Faculdade de Ciências e Tecnologia,9003,Agronomia,21.0,107.6,18.0,11.0,21.0,11.0,21.0
+2025,9003_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9003,Agronomia,41.0,125.7,24.0,6.0,41.0,6.0,41.0
+2025,9003_3021,3021,Instituto Politécnico de Beja - Escola Superior Agrária,9003,Agronomia,53.0,116.2,11.0,2.0,28.0,2.0,28.0
+2025,9003_3051,3051,Instituto Politécnico de Castelo Branco - Escola Superior Agrária de Castelo Branco,9003,Agronomia,20.0,107.5,8.0,3.0,20.0,3.0,20.0
+2025,9003_3141,3141,Instituto Politécnico de Santarém - Escola Superior Agrária de Santarém,9003,Agronomia,58.0,106.5,24.0,4.0,58.0,4.0,58.0
+2025,9003_3161,3161,Instituto Politécnico de Viana do Castelo - Escola Superior Agrária,9003,Agronomia,20.0,105.9,10.0,6.0,16.0,6.0,16.0
+2025,9005_1202,1202,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais,9005,Animação Sociocultural,28.0,129.6,24.0,17.0,28.0,17.0,28.0
+2025,9005_3091,3091,"Instituto Politécnico da Guarda - Escola Superior de Educação, Comunicação e Desporto",9005,Animação Sociocultural,23.0,113.7,12.0,3.0,18.0,3.0,18.0
+2025,9005_3112,3112,Instituto Politécnico de Lisboa - Escola Superior de Educação,9005,Animação Sociocultural,29.0,138.6,28.0,25.0,29.0,25.0,29.0
+2025,9006_0505,505,Universidade de Coimbra - Faculdade de Letras,9006,Arqueologia,25.0,144.0,25.0,23.0,25.0,23.0,25.0
+2025,9006_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9006,Arqueologia,27.0,147.5,26.0,24.0,27.0,24.0,27.0
+2025,9006_1107,1107,Universidade do Porto - Faculdade de Letras,9006,Arqueologia,29.0,142.4,29.0,26.0,29.0,26.0,29.0
+2025,9006_1506,1506,Universidade de Lisboa - Faculdade de Letras,9006,Arqueologia,36.0,141.8,36.0,35.0,36.0,35.0,36.0
+2025,9007_3103,3103,Instituto Politécnico de Leiria - Escola Superior de Artes e Design,9007,Artes Plásticas,53.0,153.2,53.0,52.0,53.0,52.0,53.0
+2025,9007_5402,5402,Universidade do Porto - Faculdade de Belas-Artes,9007,Artes Plásticas,64.0,167.9,63.0,61.0,64.0,61.0,64.0
+2025,9009_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,9009,Assessoria e Tradução,54.0,157.8,54.0,53.0,54.0,53.0,54.0
+2025,9010_3022,3022,Instituto Politécnico de Beja - Escola Superior de Educação,9010,Audiovisual e Multimédia,32.0,121.4,29.0,17.0,32.0,17.0,32.0
+2025,9010_3113,3113,Instituto Politécnico de Lisboa - Escola Superior de Comunicação Social,9010,Audiovisual e Multimédia,88.0,153.8,88.0,85.0,88.0,85.0,88.0
+2025,9011_0160,160,Universidade dos Açores - Faculdade de Ciências e Tecnologia,9011,Biologia,28.0,129.3,28.0,24.0,28.0,24.0,28.0
+2025,9011_0203,203,Universidade do Algarve - Faculdade de Ciências e Tecnologia,9011,Biologia,42.0,133.3,42.0,40.0,42.0,40.0,42.0
+2025,9011_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9011,Biologia,100.0,145.9,99.0,95.0,100.0,95.0,100.0
+2025,9011_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9011,Biologia,35.0,146.1,34.0,33.0,35.0,33.0,35.0
+2025,9011_1103,1103,Universidade do Porto - Faculdade de Ciências,9011,Biologia,131.0,158.9,131.0,129.0,131.0,129.0,131.0
+2025,9011_1204,1204,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências da Vida e do Ambiente,9011,Biologia,35.0,118.9,34.0,33.0,35.0,33.0,35.0
+2025,9011_1309,1309,Universidade da Madeira - Faculdade de Ciências da Vida,9011,Biologia,21.0,130.3,20.0,11.0,21.0,11.0,21.0
+2025,9011_1503,1503,Universidade de Lisboa - Faculdade de Ciências,9011,Biologia,174.0,161.6,174.0,170.0,174.0,170.0,174.0
+2025,9011_1515,1515,Universidade de Lisboa - Instituto Superior de Agronomia,9011,Biologia,38.0,146.0,38.0,36.0,38.0,36.0,38.0
+2025,9012_1204,1204,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências da Vida e do Ambiente,9012,Biologia e Geologia,20.0,125.3,11.0,4.0,20.0,4.0,20.0
+2025,9013_0203,203,Universidade do Algarve - Faculdade de Ciências e Tecnologia,9013,Biologia Marinha,64.0,137.1,63.0,61.0,64.0,61.0,64.0
+2025,9015_0203,203,Universidade do Algarve - Faculdade de Ciências e Tecnologia,9015,Bioquímica,22.0,131.4,21.0,18.0,22.0,18.0,22.0
+2025,9015_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9015,Bioquímica,65.0,137.1,64.0,62.0,65.0,62.0,65.0
+2025,9015_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9015,Bioquímica,32.0,130.9,28.0,14.0,32.0,14.0,32.0
+2025,9015_0903,903,Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia,9015,Bioquímica,80.0,165.8,80.0,78.0,80.0,78.0,80.0
+2025,9015_1103,1103,Universidade do Porto - Faculdade de Ciências,9015,Bioquímica,92.0,167.2,91.0,76.0,92.0,76.0,92.0
+2025,9015_1204,1204,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências da Vida e do Ambiente,9015,Bioquímica,50.0,128.7,50.0,49.0,50.0,49.0,50.0
+2025,9015_1307,1307,Universidade da Madeira - Faculdade de Ciências Exatas e da Engenharia,9015,Bioquímica,25.0,102.0,21.0,10.0,25.0,10.0,25.0
+2025,9015_1503,1503,Universidade de Lisboa - Faculdade de Ciências,9015,Bioquímica,70.0,153.5,70.0,68.0,70.0,68.0,70.0
+2025,9016_0203,203,Universidade do Algarve - Faculdade de Ciências e Tecnologia,9016,Biotecnologia,21.0,137.0,20.0,17.0,21.0,17.0,21.0
+2025,9016_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9016,Biotecnologia,27.0,129.6,25.0,13.0,27.0,13.0,27.0
+2025,9016_3061,3061,Instituto Politécnico de Coimbra - Escola Superior Agrária de Coimbra,9016,Biotecnologia,44.0,143.1,44.0,36.0,44.0,36.0,44.0
+2025,9016_3105,3105,Instituto Politécnico de Leiria - Escola Superior de Turismo e Tecnologia do Mar,9016,Biotecnologia,30.0,111.9,26.0,12.0,30.0,12.0,30.0
+2025,9016_3154,3154,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia do Barreiro,9016,Biotecnologia,45.0,138.5,45.0,42.0,45.0,42.0,45.0
+2025,9016_3161,3161,Instituto Politécnico de Viana do Castelo - Escola Superior Agrária,9016,Biotecnologia,27.0,131.9,26.0,16.0,27.0,16.0,27.0
+2025,9019_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,9019,Ciência Política,44.0,158.0,44.0,41.0,44.0,41.0,44.0
+2025,9019_6800,6800,ISCTE - Instituto Universitário de Lisboa,9019,Ciência Política,41.0,160.8,41.0,39.0,41.0,39.0,41.0
+2025,9020_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9020,Ciência Política e Relações Internacionais,98.0,176.5,97.0,92.0,98.0,92.0,98.0
+2025,9022_0140,140,Universidade dos Açores - Faculdade de Ciências Agrárias e do Ambiente,9022,Ciências Agrárias,16.0,128.1,7.0,0.0,16.0,0.0,16.0
+2025,9023_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9023,Ciências da Comunicação,96.0,176.4,95.0,91.0,96.0,91.0,96.0
+2025,9023_1202,1202,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais,9023,Ciências da Comunicação,68.0,151.9,68.0,65.0,68.0,65.0,68.0
+2025,9023_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,9023,Ciências da Comunicação,56.0,167.2,56.0,55.0,56.0,55.0,56.0
+2025,9023_3081,3081,Universidade do Algarve - Escola Superior de Educação e Comunicação,9023,Ciências da Comunicação,39.0,149.4,39.0,37.0,39.0,37.0,39.0
+2025,9026_0507,507,Universidade de Coimbra - Faculdade de Psicologia e de Ciências da Educação,9026,Ciências da Educação,72.0,148.8,72.0,69.0,72.0,69.0,72.0
+2025,9026_0604,604,Universidade de Évora - Escola de Ciências Sociais,9026,Ciências da Educação,32.0,144.0,32.0,30.0,32.0,30.0,32.0
+2025,9026_1109,1109,Universidade do Porto - Faculdade de Psicologia e de Ciências da Educação,9026,Ciências da Educação,47.0,160.9,47.0,46.0,47.0,46.0,47.0
+2025,9026_1308,1308,Universidade da Madeira - Faculdade de Ciências Sociais,9026,Ciências da Educação,29.0,134.7,29.0,25.0,29.0,25.0,29.0
+2025,9040_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9040,Ciências da Linguagem,20.0,154.4,19.0,16.0,20.0,16.0,20.0
+2025,9040_1107,1107,Universidade do Porto - Faculdade de Letras,9040,Ciências da Linguagem,24.0,147.3,23.0,16.0,24.0,16.0,24.0
+2025,9040_1506,1506,Universidade de Lisboa - Faculdade de Letras,9040,Ciências da Linguagem,31.0,142.1,31.0,29.0,31.0,29.0,31.0
+2025,9043_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,9043,Ciências e Tecnologias da Documentação e Informação,25.0,147.8,25.0,23.0,25.0,23.0,25.0
+2025,9045_3138,3138,Instituto Politécnico do Porto - Escola Superior de Tecnologia e Gestão,9045,Ciências Empresariais,40.0,158.9,40.0,38.0,40.0,38.0,40.0
+2025,9046_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9046,Ciências Musicais,43.0,146.2,43.0,40.0,43.0,40.0,43.0
+2025,9052_1203,1203,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia,9052,Comunicação e Multimédia,70.0,140.8,70.0,68.0,70.0,68.0,70.0
+2025,9053_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,9053,Comunicação Empresarial,43.0,165.2,43.0,40.0,43.0,40.0,43.0
+2025,9054_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,9054,Comunicação Social,38.0,151.2,38.0,36.0,38.0,36.0,38.0
+2025,9054_3151,3151,Instituto Politécnico de Setúbal - Escola Superior de Educação,9054,Comunicação Social,33.0,141.8,33.0,30.0,33.0,30.0,33.0
+2025,9054_3181,3181,Instituto Politécnico de Viseu - Escola Superior de Educação de Viseu,9054,Comunicação Social,63.0,138.7,63.0,61.0,63.0,61.0,63.0
+2025,9056_3011,3011,Universidade de Aveiro - Instituto Superior de Contabilidade e Administração de Aveiro,9056,Contabilidade,95.0,143.8,95.0,90.0,95.0,90.0,95.0
+2025,9056_3031,3031,Instituto Politécnico do Cávado e do Ave - Escola Superior de Gestão,9056,Contabilidade,40.0,146.1,40.0,38.0,40.0,38.0,40.0
+2025,9056_3043,3043,Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança,9056,Contabilidade,60.0,117.3,39.0,24.0,60.0,24.0,60.0
+2025,9056_3092,3092,Instituto Politécnico da Guarda - Escola Superior de Tecnologia e Gestão,9056,Contabilidade,30.0,120.3,11.0,5.0,26.0,5.0,26.0
+2025,9056_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,9056,Contabilidade,40.0,128.4,39.0,33.0,40.0,33.0,40.0
+2025,9056_3241,3241,Instituto Politécnico de Tomar - Escola Superior de Gestão de Tomar,9056,Contabilidade,20.0,124.2,12.0,4.0,19.0,4.0,19.0
+2025,9058_3065,3065,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,9058,Contabilidade e Administração,37.0,127.2,37.0,35.0,37.0,35.0,37.0
+2025,9058_3117,3117,Instituto Politécnico de Lisboa - Instituto Superior de Contabilidade e Administração de Lisboa,9058,Contabilidade e Administração,121.0,155.4,121.0,116.0,121.0,116.0,121.0
+2025,9058_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,9058,Contabilidade e Administração,215.0,143.6,214.0,208.0,215.0,208.0,215.0
+2025,9061_3063,3063,Instituto Politécnico de Coimbra - Instituto Superior de Contabilidade e Administração de Coimbra,9061,Contabilidade e Auditoria,75.0,138.1,75.0,70.0,75.0,70.0,75.0
+2025,9066_1114,1114,Universidade do Porto - Faculdade de Direito,9066,Criminologia,46.0,173.5,46.0,43.0,46.0,43.0,46.0
+2025,9068_1510,1510,Universidade de Lisboa - Faculdade de Motricidade Humana,9068,Dança,20.0,116.4,19.0,16.0,20.0,16.0,20.0
+2025,9069_0603,603,Universidade de Évora - Escola de Artes,9069,Design,36.0,146.0,36.0,35.0,36.0,35.0,36.0
+2025,9069_1306,1306,Universidade da Madeira - Faculdade de Artes e Humanidades,9069,Design,33.0,118.6,31.0,21.0,33.0,21.0,33.0
+2025,9069_1501,1501,Universidade de Lisboa - Faculdade de Arquitetura,9069,Design,50.0,172.5,50.0,49.0,50.0,49.0,50.0
+2025,9069_3331,3331,Instituto Politécnico do Porto - Escola Superior de Media Artes e Design,9069,Design,44.0,144.1,44.0,41.0,44.0,41.0,44.0
+2025,9070_1502,1502,Universidade de Lisboa - Faculdade de Belas-Artes,9070,Design de Comunicação,84.0,165.0,84.0,82.0,84.0,82.0,84.0
+2025,9070_3081,3081,Universidade do Algarve - Escola Superior de Educação e Comunicação,9070,Design de Comunicação,39.0,133.1,39.0,37.0,39.0,37.0,39.0
+2025,9070_5402,5402,Universidade do Porto - Faculdade de Belas-Artes,9070,Design de Comunicação,57.0,174.4,57.0,56.0,57.0,56.0,57.0
+2025,9071_1501,1501,Universidade de Lisboa - Faculdade de Arquitetura,9071,Design de Moda,50.0,167.6,50.0,49.0,50.0,49.0,50.0
+2025,9072_1502,1502,Universidade de Lisboa - Faculdade de Belas-Artes,9072,Design de Equipamento,55.0,156.8,55.0,53.0,55.0,53.0,55.0
+2025,9074_3033,3033,Instituto Politécnico do Cávado e do Ave - Escola Superior de Design,9074,Design Industrial,39.0,141.9,39.0,37.0,39.0,37.0,39.0
+2025,9074_3103,3103,Instituto Politécnico de Leiria - Escola Superior de Artes e Design,9074,Design Industrial,28.0,139.5,28.0,26.0,28.0,26.0,28.0
+2025,9076_1321,1321,Universidade da Madeira - Escola Superior de Tecnologias e Gestão,9076,Direção e Gestão Hoteleira,36.0,108.5,36.0,31.0,36.0,31.0,36.0
+2025,9078_0502,502,Universidade de Coimbra - Faculdade de Direito,9078,Direito,339.0,169.4,338.0,331.0,339.0,331.0,339.0
+2025,9078_0911,911,Universidade Nova de Lisboa - Faculdade de Direito,9078,Direito,100.0,174.4,99.0,95.0,100.0,95.0,100.0
+2025,9078_1114,1114,Universidade do Porto - Faculdade de Direito,9078,Direito,155.0,179.5,155.0,150.0,155.0,150.0,155.0
+2025,9078_1504,1504,Universidade de Lisboa - Faculdade de Direito,9078,Direito,445.0,159.7,445.0,424.0,445.0,424.0,445.0
+2025,9081_0170,170,Universidade dos Açores - Faculdade de Economia e Gestão,9081,Economia,18.0,118.2,10.0,3.0,18.0,3.0,18.0
+2025,9081_0204,204,Universidade do Algarve - Faculdade de Economia,9081,Economia,28.0,128.9,27.0,19.0,28.0,19.0,28.0
+2025,9081_0503,503,Universidade de Coimbra - Faculdade de Economia,9081,Economia,151.0,152.3,151.0,150.0,151.0,150.0,151.0
+2025,9081_0604,604,Universidade de Évora - Escola de Ciências Sociais,9081,Economia,37.0,133.4,37.0,35.0,37.0,35.0,37.0
+2025,9081_0904,904,Universidade Nova de Lisboa - Faculdade de Economia,9081,Economia,195.0,175.1,195.0,190.0,195.0,190.0,195.0
+2025,9081_1104,1104,Universidade do Porto - Faculdade de Economia,9081,Economia,208.0,173.7,208.0,205.0,208.0,205.0,208.0
+2025,9081_1202,1202,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais,9081,Economia,53.0,145.4,53.0,52.0,53.0,52.0,53.0
+2025,9081_1308,1308,Universidade da Madeira - Faculdade de Ciências Sociais,9081,Economia,37.0,116.5,27.0,17.0,37.0,17.0,37.0
+2025,9081_1517,1517,Universidade de Lisboa - Instituto Superior de Economia e Gestão,9081,Economia,132.0,161.8,132.0,129.0,132.0,129.0,132.0
+2025,9081_6800,6800,ISCTE - Instituto Universitário de Lisboa,9081,Economia,72.0,161.9,72.0,69.0,72.0,69.0,72.0
+2025,9082_3042,3042,Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança,9082,Educação Ambiental,25.0,127.8,4.0,1.0,6.0,1.0,6.0
+2025,9084_3042,3042,Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança,9084,Educação Social,90.0,99.8,71.0,20.0,90.0,20.0,90.0
+2025,9084_3081,3081,Universidade do Algarve - Escola Superior de Educação e Comunicação,9084,Educação Social,34.0,141.3,33.0,29.0,34.0,29.0,34.0
+2025,9084_3101,3101,Instituto Politécnico de Leiria - Escola Superior de Educação e Ciências Sociais,9084,Educação Social,41.0,139.1,41.0,39.0,41.0,39.0,41.0
+2025,9084_3121,3121,Instituto Politécnico de Portalegre - Escola Superior de Educação e Ciências Sociais,9084,Educação Social,25.0,114.6,23.0,19.0,25.0,19.0,25.0
+2025,9084_3131,3131,Instituto Politécnico do Porto - Escola Superior de Educação,9084,Educação Social,54.0,151.3,54.0,53.0,54.0,53.0,54.0
+2025,9084_3142,3142,Instituto Politécnico de Santarém - Escola Superior de Educação de Santarém,9084,Educação Social,40.0,128.0,40.0,38.0,40.0,38.0,40.0
+2025,9084_3181,3181,Instituto Politécnico de Viseu - Escola Superior de Educação de Viseu,9084,Educação Social,64.0,130.3,63.0,59.0,64.0,59.0,64.0
+2025,9085_3041,3041,Instituto Politécnico de Bragança - Escola Superior Agrária de Bragança,9085,Enfermagem Veterinária,60.0,115.9,38.0,8.0,60.0,8.0,60.0
+2025,9085_3051,3051,Instituto Politécnico de Castelo Branco - Escola Superior Agrária de Castelo Branco,9085,Enfermagem Veterinária,40.0,142.9,40.0,38.0,40.0,38.0,40.0
+2025,9085_3061,3061,Instituto Politécnico de Coimbra - Escola Superior Agrária de Coimbra,9085,Enfermagem Veterinária,30.0,153.7,28.0,18.0,30.0,18.0,30.0
+2025,9085_3161,3161,Instituto Politécnico de Viana do Castelo - Escola Superior Agrária,9085,Enfermagem Veterinária,35.0,152.2,34.0,33.0,35.0,33.0,35.0
+2025,9085_3185,3185,Instituto Politécnico de Viseu - Escola Superior Agrária de Viseu,9085,Enfermagem Veterinária,45.0,144.4,45.0,42.0,45.0,42.0,45.0
+2025,9086_1201,1201,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Agrárias e Veterinárias,9086,Engenharia Agronómica,20.0,126.1,11.0,7.0,20.0,7.0,20.0
+2025,9086_1515,1515,Universidade de Lisboa - Instituto Superior de Agronomia,9086,Engenharia Agronómica,57.0,122.6,43.0,16.0,57.0,16.0,57.0
+2025,9087_1515,1515,Universidade de Lisboa - Instituto Superior de Agronomia,9087,Engenharia Alimentar,34.0,125.0,16.0,6.0,34.0,6.0,34.0
+2025,9087_3105,3105,Instituto Politécnico de Leiria - Escola Superior de Turismo e Tecnologia do Mar,9087,Engenharia Alimentar,14.0,120.4,3.0,2.0,6.0,2.0,6.0
+2025,9087_3163,3163,Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão,9087,Engenharia Alimentar,20.0,116.4,3.0,1.0,13.0,1.0,13.0
+2025,9089_1203,1203,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia,9089,Engenharia Civil,11.0,125.4,10.0,5.0,11.0,5.0,11.0
+2025,9089_3043,3043,Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança,9089,Engenharia Civil,30.0,119.3,2.0,1.0,5.0,1.0,5.0
+2025,9089_3064,3064,Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra,9089,Engenharia Civil,18.0,130.1,15.0,7.0,18.0,7.0,18.0
+2025,9089_3083,3083,Universidade do Algarve - Instituto Superior de Engenharia,9089,Engenharia Civil,20.0,156.4,10.0,5.0,16.0,5.0,16.0
+2025,9089_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9089,Engenharia Civil,15.0,136.4,8.0,3.0,15.0,3.0,15.0
+2025,9089_3118,3118,Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa,9089,Engenharia Civil,41.0,106.3,39.0,27.0,41.0,27.0,41.0
+2025,9089_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,9089,Engenharia Civil,51.0,127.8,51.0,49.0,51.0,49.0,51.0
+2025,9089_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,9089,Engenharia Civil,43.0,132.5,3.0,1.0,10.0,1.0,10.0
+2025,9092_3152,3152,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal,9092,"Engenharia de Automação, Controlo e Instrumentação",48.0,147.2,3.0,1.0,9.0,1.0,9.0
+2025,9096_0903,903,Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia,9096,Engenharia de Materiais,23.0,144.3,23.0,16.0,23.0,16.0,23.0
+2025,9096_1518,1518,Universidade de Lisboa - Instituto Superior Técnico,9096,Engenharia de Materiais,25.0,144.8,25.0,23.0,25.0,23.0,25.0
+2025,9098_1519,1519,Universidade de Lisboa - Instituto Superior Técnico (Tagus Park),9098,Engenharia de Telecomunicações e Informática,55.0,137.1,44.0,11.0,55.0,11.0,55.0
+2025,9098_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,9098,Engenharia de Telecomunicações e Informática,40.0,136.5,39.0,35.0,40.0,35.0,40.0
+2025,9098_6800,6800,ISCTE - Instituto Universitário de Lisboa,9098,Engenharia de Telecomunicações e Informática,60.0,134.3,60.0,58.0,60.0,58.0,60.0
+2025,9099_1515,1515,Universidade de Lisboa - Instituto Superior de Agronomia,9099,Engenharia do Ambiente,19.0,129.3,12.0,5.0,18.0,5.0,18.0
+2025,9104_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9104,Engenharia e Gestão Industrial,57.0,149.2,57.0,56.0,57.0,56.0,57.0
+2025,9104_1203,1203,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia,9104,Engenharia e Gestão Industrial,20.0,122.0,18.0,13.0,20.0,13.0,20.0
+2025,9104_1519,1519,Universidade de Lisboa - Instituto Superior Técnico (Tagus Park),9104,Engenharia e Gestão Industrial,81.0,167.5,81.0,79.0,81.0,79.0,81.0
+2025,9104_3032,3032,Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia,9104,Engenharia e Gestão Industrial,16.0,124.4,16.0,12.0,16.0,12.0,16.0
+2025,9104_3064,3064,Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra,9104,Engenharia e Gestão Industrial,25.0,133.9,25.0,23.0,25.0,23.0,25.0
+2025,9104_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9104,Engenharia e Gestão Industrial,20.0,157.1,10.0,3.0,18.0,3.0,18.0
+2025,9104_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,9104,Engenharia e Gestão Industrial,40.0,178.2,39.0,38.0,40.0,38.0,40.0
+2025,9105_3064,3064,Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra,9105,Engenharia Eletromecânica,24.0,151.6,10.0,3.0,16.0,3.0,16.0
+2025,9107_1307,1307,Universidade da Madeira - Faculdade de Ciências Exatas e da Engenharia,9107,Engenharia Eletrónica e Telecomunicações,15.0,157.5,4.0,1.0,9.0,1.0,9.0
+2025,9108_3118,3118,Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa,9108,Engenharia Eletrónica e Telecomunicações e de Computadores,75.0,107.9,44.0,19.0,72.0,19.0,72.0
+2025,9109_3118,3118,Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa,9109,Engenharia Eletrotécnica,65.0,114.9,48.0,13.0,65.0,13.0,65.0
+2025,9109_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,9109,Engenharia Eletrotécnica,48.0,122.5,6.0,1.0,26.0,1.0,26.0
+2025,9110_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,9110,Engenharia Eletrotécnica - Sistemas Elétricos de Energia,45.0,121.9,40.0,23.0,45.0,23.0,45.0
+2025,9112_3032,3032,Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia,9112,Engenharia Eletrotécnica e de Computadores,31.0,128.3,20.0,10.0,31.0,10.0,31.0
+2025,9112_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9112,Engenharia Eletrotécnica e de Computadores,35.0,144.1,16.0,8.0,21.0,8.0,21.0
+2025,9112_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,9112,Engenharia Eletrotécnica e de Computadores,167.0,127.7,166.0,153.0,167.0,153.0,167.0
+2025,9112_3152,3152,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal,9112,Engenharia Eletrotécnica e de Computadores,56.0,137.5,4.0,1.0,13.0,1.0,13.0
+2025,9113_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9113,Engenharia Física,34.0,143.6,33.0,21.0,34.0,21.0,34.0
+2025,9116_0903,903,Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia,9116,Engenharia Geológica,19.0,131.2,13.0,6.0,19.0,6.0,19.0
+2025,9117_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,9117,Engenharia Geotécnica e Geoambiente,20.0,129.4,15.0,7.0,20.0,7.0,20.0
+2025,9119_0203,203,Universidade do Algarve - Faculdade de Ciências e Tecnologia,9119,Engenharia Informática,84.0,130.1,82.0,54.0,84.0,54.0,84.0
+2025,9119_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9119,Engenharia Informática,150.0,156.0,150.0,133.0,150.0,133.0,150.0
+2025,9119_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9119,Engenharia Informática,60.0,127.9,59.0,50.0,60.0,50.0,60.0
+2025,9119_0903,903,Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia,9119,Engenharia Informática,170.0,161.6,170.0,170.0,170.0,170.0,170.0
+2025,9119_1203,1203,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia,9119,Engenharia Informática,148.0,130.6,145.0,131.0,148.0,131.0,148.0
+2025,9119_1307,1307,Universidade da Madeira - Faculdade de Ciências Exatas e da Engenharia,9119,Engenharia Informática,90.0,117.2,89.0,85.0,90.0,85.0,90.0
+2025,9119_1503,1503,Universidade de Lisboa - Faculdade de Ciências,9119,Engenharia Informática,105.0,158.6,105.0,104.0,105.0,104.0,105.0
+2025,9119_3023,3023,Instituto Politécnico de Beja - Escola Superior de Tecnologia e de Gestão,9119,Engenharia Informática,62.0,123.4,22.0,6.0,44.0,6.0,44.0
+2025,9119_3043,3043,Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança,9119,Engenharia Informática,108.0,108.5,41.0,12.0,81.0,12.0,81.0
+2025,9119_3053,3053,Instituto Politécnico de Castelo Branco - Escola Superior de Tecnologia de Castelo Branco,9119,Engenharia Informática,90.0,107.4,45.0,11.0,84.0,11.0,84.0
+2025,9119_3064,3064,Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra,9119,Engenharia Informática,140.0,147.1,140.0,136.0,140.0,136.0,140.0
+2025,9119_3065,3065,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,9119,Engenharia Informática,44.0,118.6,31.0,10.0,44.0,10.0,44.0
+2025,9119_3092,3092,Instituto Politécnico da Guarda - Escola Superior de Tecnologia e Gestão,9119,Engenharia Informática,72.0,123.0,23.0,4.0,49.0,4.0,49.0
+2025,9119_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9119,Engenharia Informática,125.0,144.4,124.0,100.0,125.0,100.0,125.0
+2025,9119_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,9119,Engenharia Informática,201.0,163.9,200.0,191.0,201.0,191.0,201.0
+2025,9119_3138,3138,Instituto Politécnico do Porto - Escola Superior de Tecnologia e Gestão,9119,Engenharia Informática,68.0,150.6,68.0,65.0,68.0,65.0,68.0
+2025,9119_3152,3152,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal,9119,Engenharia Informática,70.0,137.5,70.0,63.0,70.0,63.0,70.0
+2025,9119_3163,3163,Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão,9119,Engenharia Informática,81.0,126.3,81.0,79.0,81.0,79.0,81.0
+2025,9119_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,9119,Engenharia Informática,66.0,128.6,66.0,61.0,66.0,61.0,66.0
+2025,9119_3242,3242,Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar,9119,Engenharia Informática,65.0,107.0,22.0,6.0,60.0,6.0,60.0
+2025,9119_6800,6800,ISCTE - Instituto Universitário de Lisboa,9119,Engenharia Informática,81.0,162.2,81.0,71.0,81.0,71.0,81.0
+2025,9121_1518,1518,Universidade de Lisboa - Instituto Superior Técnico,9121,Engenharia Informática e de Computadores,183.0,179.6,182.0,179.0,183.0,179.0,183.0
+2025,9121_1519,1519,Universidade de Lisboa - Instituto Superior Técnico (Tagus Park),9121,Engenharia Informática e de Computadores,90.0,171.2,89.0,85.0,90.0,85.0,90.0
+2025,9121_3118,3118,Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa,9121,Engenharia Informática e de Computadores,132.0,144.5,130.0,98.0,132.0,98.0,132.0
+2025,9122_3186,3186,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Lamego,9122,Engenharia Informática e Telecomunicações,36.0,114.3,11.0,6.0,19.0,6.0,19.0
+2025,9123_1203,1203,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia,9123,Engenharia Mecânica,28.0,134.1,28.0,24.0,28.0,24.0,28.0
+2025,9123_3064,3064,Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra,9123,Engenharia Mecânica,50.0,117.2,38.0,16.0,50.0,16.0,50.0
+2025,9123_3083,3083,Universidade do Algarve - Instituto Superior de Engenharia,9123,Engenharia Mecânica,20.0,117.6,15.0,5.0,19.0,5.0,19.0
+2025,9123_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9123,Engenharia Mecânica,40.0,126.7,30.0,11.0,40.0,11.0,40.0
+2025,9123_3118,3118,Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa,9123,Engenharia Mecânica,104.0,128.1,104.0,102.0,104.0,102.0,104.0
+2025,9123_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,9123,Engenharia Mecânica,120.0,163.3,120.0,120.0,120.0,120.0,120.0
+2025,9123_3152,3152,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal,9123,Engenharia Mecânica,53.0,124.3,24.0,5.0,52.0,5.0,52.0
+2025,9123_3163,3163,Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão,9123,Engenharia Mecânica,36.0,129.3,17.0,9.0,25.0,9.0,25.0
+2025,9123_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,9123,Engenharia Mecânica,44.0,126.0,10.0,5.0,17.0,5.0,17.0
+2025,9125_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,9125,Engenharia Química,53.0,129.1,51.0,25.0,53.0,25.0,53.0
+2025,9126_3118,3118,Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa,9126,Engenharia Química e Biológica,33.0,122.6,17.0,3.0,24.0,3.0,24.0
+2025,9129_1201,1201,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Agrárias e Veterinárias,9129,Engenharia Zootécnica,20.0,142.8,11.0,5.0,20.0,5.0,20.0
+2025,9129_1515,1515,Universidade de Lisboa - Instituto Superior de Agronomia,9129,Engenharia Zootécnica,25.0,123.8,21.0,10.0,25.0,10.0,25.0
+2025,9131_1506,1506,Universidade de Lisboa - Faculdade de Letras,9131,Estudos Africanos,20.0,135.2,19.0,16.0,20.0,16.0,20.0
+2025,9132_0505,505,Universidade de Coimbra - Faculdade de Letras,9132,Estudos Artísticos,38.0,151.3,38.0,36.0,38.0,36.0,38.0
+2025,9133_0505,505,Universidade de Coimbra - Faculdade de Letras,9133,Estudos Clássicos,21.0,146.1,20.0,14.0,21.0,14.0,21.0
+2025,9133_1506,1506,Universidade de Lisboa - Faculdade de Letras,9133,Estudos Clássicos,19.0,145.3,18.0,12.0,19.0,12.0,19.0
+2025,9135_0505,505,Universidade de Coimbra - Faculdade de Letras,9135,Estudos Europeus,35.0,155.4,34.0,33.0,35.0,33.0,35.0
+2025,9135_1506,1506,Universidade de Lisboa - Faculdade de Letras,9135,Estudos Europeus,56.0,153.6,56.0,55.0,56.0,55.0,56.0
+2025,9139_0505,505,Universidade de Coimbra - Faculdade de Letras,9139,Filosofia,27.0,150.6,26.0,24.0,27.0,24.0,27.0
+2025,9139_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9139,Filosofia,25.0,162.9,25.0,23.0,25.0,23.0,25.0
+2025,9139_1107,1107,Universidade do Porto - Faculdade de Letras,9139,Filosofia,55.0,143.7,55.0,53.0,55.0,53.0,55.0
+2025,9139_1506,1506,Universidade de Lisboa - Faculdade de Letras,9139,Filosofia,43.0,144.9,43.0,40.0,43.0,40.0,43.0
+2025,9140_3011,3011,Universidade de Aveiro - Instituto Superior de Contabilidade e Administração de Aveiro,9140,Finanças,20.0,156.2,19.0,10.0,20.0,10.0,20.0
+2025,9140_3031,3031,Instituto Politécnico do Cávado e do Ave - Escola Superior de Gestão,9140,Finanças,32.0,143.2,32.0,30.0,32.0,30.0,32.0
+2025,9141_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9141,Física,24.0,142.0,16.0,4.0,24.0,4.0,24.0
+2025,9141_1103,1103,Universidade do Porto - Faculdade de Ciências,9141,Física,52.0,125.0,39.0,21.0,52.0,21.0,52.0
+2025,9141_1503,1503,Universidade de Lisboa - Faculdade de Ciências,9141,Física,40.0,155.9,40.0,38.0,40.0,38.0,40.0
+2025,9143_0505,505,Universidade de Coimbra - Faculdade de Letras,9143,Geografia,69.0,134.7,69.0,67.0,69.0,67.0,69.0
+2025,9143_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9143,Geografia,30.0,132.7,29.0,25.0,30.0,25.0,30.0
+2025,9143_1107,1107,Universidade do Porto - Faculdade de Letras,9143,Geografia,69.0,143.4,69.0,67.0,69.0,67.0,69.0
+2025,9143_1514,1514,Universidade de Lisboa - Instituto de Geografia e Ordenamento do Território,9143,Geografia,106.0,141.4,106.0,104.0,106.0,104.0,106.0
+2025,9145_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9145,Geografia e Planeamento Regional,57.0,142.8,57.0,56.0,57.0,56.0,57.0
+2025,9146_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9146,Geologia,33.0,123.6,28.0,20.0,33.0,20.0,33.0
+2025,9146_1103,1103,Universidade do Porto - Faculdade de Ciências,9146,Geologia,33.0,123.5,33.0,30.0,33.0,30.0,33.0
+2025,9146_1503,1503,Universidade de Lisboa - Faculdade de Ciências,9146,Geologia,72.0,142.7,72.0,69.0,72.0,69.0,72.0
+2025,9147_0170,170,Universidade dos Açores - Faculdade de Economia e Gestão,9147,Gestão,49.0,113.4,42.0,17.0,49.0,17.0,49.0
+2025,9147_0503,503,Universidade de Coimbra - Faculdade de Economia,9147,Gestão,89.0,164.4,88.0,85.0,89.0,85.0,89.0
+2025,9147_0604,604,Universidade de Évora - Escola de Ciências Sociais,9147,Gestão,70.0,151.4,70.0,67.0,70.0,67.0,70.0
+2025,9147_0904,904,Universidade Nova de Lisboa - Faculdade de Economia,9147,Gestão,295.0,178.5,294.0,289.0,295.0,289.0,295.0
+2025,9147_1104,1104,Universidade do Porto - Faculdade de Economia,9147,Gestão,208.0,179.0,208.0,205.0,208.0,205.0,208.0
+2025,9147_1202,1202,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais,9147,Gestão,71.0,163.2,71.0,68.0,71.0,68.0,71.0
+2025,9147_1308,1308,Universidade da Madeira - Faculdade de Ciências Sociais,9147,Gestão,55.0,149.8,55.0,53.0,55.0,53.0,55.0
+2025,9147_1517,1517,Universidade de Lisboa - Instituto Superior de Economia e Gestão,9147,Gestão,137.0,166.5,134.0,118.0,137.0,118.0,137.0
+2025,9147_3043,3043,Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança,9147,Gestão,110.0,130.0,108.0,80.0,110.0,80.0,110.0
+2025,9147_3054,3054,Instituto Politécnico de Castelo Branco - Escola Superior de Gestão de Idanha-a-Nova,9147,Gestão,45.0,117.1,28.0,21.0,38.0,21.0,38.0
+2025,9147_3065,3065,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,9147,Gestão,36.0,145.6,36.0,35.0,36.0,35.0,36.0
+2025,9147_3082,3082,"Universidade do Algarve - Escola Superior de Gestão, Hotelaria e Turismo",9147,Gestão,76.0,142.5,76.0,70.0,76.0,70.0,76.0
+2025,9147_3087,3087,"Universidade do Algarve - Escola Superior de Gestão, Hotelaria e Turismo (Portimão)",9147,Gestão,31.0,136.9,31.0,25.0,31.0,25.0,31.0
+2025,9147_3092,3092,Instituto Politécnico da Guarda - Escola Superior de Tecnologia e Gestão,9147,Gestão,55.0,120.1,54.0,43.0,55.0,43.0,55.0
+2025,9147_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9147,Gestão,106.0,142.1,106.0,104.0,106.0,104.0,106.0
+2025,9147_3117,3117,Instituto Politécnico de Lisboa - Instituto Superior de Contabilidade e Administração de Lisboa,9147,Gestão,103.0,164.6,102.0,97.0,103.0,97.0,103.0
+2025,9147_3163,3163,Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão,9147,Gestão,54.0,142.4,49.0,21.0,54.0,21.0,54.0
+2025,9147_6800,6800,ISCTE - Instituto Universitário de Lisboa,9147,Gestão,176.0,167.6,176.0,171.0,176.0,171.0,176.0
+2025,9148_3082,3082,"Universidade do Algarve - Escola Superior de Gestão, Hotelaria e Turismo",9148,Gestão (regime noturno),26.0,127.5,25.0,19.0,26.0,19.0,26.0
+2025,9148_3087,3087,"Universidade do Algarve - Escola Superior de Gestão, Hotelaria e Turismo (Portimão)",9148,Gestão (regime noturno),20.0,112.3,8.0,4.0,12.0,4.0,12.0
+2025,9148_3163,3163,Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão,9148,Gestão (regime noturno),33.0,96.8,22.0,11.0,30.0,11.0,30.0
+2025,9152_0204,204,Universidade do Algarve - Faculdade de Economia,9152,Gestão de Empresas,70.0,144.2,70.0,67.0,70.0,67.0,70.0
+2025,9152_3023,3023,Instituto Politécnico de Beja - Escola Superior de Tecnologia e de Gestão,9152,Gestão de Empresas,35.0,108.3,34.0,23.0,35.0,23.0,35.0
+2025,9152_3031,3031,Instituto Politécnico do Cávado e do Ave - Escola Superior de Gestão,9152,Gestão de Empresas,40.0,161.4,40.0,38.0,40.0,38.0,40.0
+2025,9152_3063,3063,Instituto Politécnico de Coimbra - Instituto Superior de Contabilidade e Administração de Coimbra,9152,Gestão de Empresas,101.0,154.5,100.0,83.0,101.0,83.0,101.0
+2025,9152_3143,3143,Instituto Politécnico de Santarém - Escola Superior de Gestão e Tecnologia de Santarém,9152,Gestão de Empresas,90.0,139.5,84.0,24.0,90.0,24.0,90.0
+2025,9152_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,9152,Gestão de Empresas,70.0,133.8,70.0,63.0,70.0,63.0,70.0
+2025,9152_3241,3241,Instituto Politécnico de Tomar - Escola Superior de Gestão de Tomar,9152,Gestão de Empresas,55.0,111.9,44.0,15.0,55.0,15.0,55.0
+2025,9155_0906,906,Universidade Nova de Lisboa - Instituto Superior de Estatística e Gestão de Informação,9155,Gestão de Informação,64.0,172.5,63.0,61.0,64.0,61.0,64.0
+2025,9156_3143,3143,Instituto Politécnico de Santarém - Escola Superior de Gestão e Tecnologia de Santarém,9156,Gestão de Marketing,55.0,143.6,54.0,49.0,55.0,49.0,55.0
+2025,9156_6800,6800,ISCTE - Instituto Universitário de Lisboa,9156,Gestão de Marketing,40.0,162.1,40.0,38.0,40.0,38.0,40.0
+2025,9157_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,9157,Gestão de Recursos Humanos,65.0,158.7,64.0,62.0,65.0,62.0,65.0
+2025,9157_3092,3092,Instituto Politécnico da Guarda - Escola Superior de Tecnologia e Gestão,9157,Gestão de Recursos Humanos,46.0,120.9,45.0,33.0,46.0,33.0,46.0
+2025,9157_3153,3153,Instituto Politécnico de Setúbal - Escola Superior de Ciências Empresariais,9157,Gestão de Recursos Humanos,53.0,151.2,53.0,50.0,53.0,50.0,53.0
+2025,9157_6800,6800,ISCTE - Instituto Universitário de Lisboa,9157,Gestão de Recursos Humanos,41.0,171.8,41.0,39.0,41.0,39.0,41.0
+2025,9162_1510,1510,Universidade de Lisboa - Faculdade de Motricidade Humana,9162,Gestão do Desporto,31.0,155.1,31.0,29.0,31.0,29.0,31.0
+2025,9164_3139,3139,Instituto Politécnico do Porto - Escola Superior de Hotelaria e Turismo,9164,Gestão e Administração Hoteleira,44.0,158.4,44.0,41.0,44.0,41.0,44.0
+2025,9165_3045,3045,"Instituto Politécnico de Bragança - Escola Superior de Comunicação, Administração e Turismo de Mirandela",9165,Gestão e Administração Pública,65.0,107.3,36.0,17.0,65.0,17.0,65.0
+2025,9168_3186,3186,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Lamego,9168,Gestão e Informática,23.0,113.1,19.0,11.0,23.0,11.0,23.0
+2025,9173_3082,3082,"Universidade do Algarve - Escola Superior de Gestão, Hotelaria e Turismo",9173,Gestão Hoteleira,48.0,138.5,48.0,47.0,48.0,47.0,48.0
+2025,9173_3095,3095,Instituto Politécnico da Guarda - Escola Superior de Turismo e Hotelaria,9173,Gestão Hoteleira,25.0,107.7,12.0,4.0,22.0,4.0,22.0
+2025,9178_3105,3105,Instituto Politécnico de Leiria - Escola Superior de Turismo e Tecnologia do Mar,9178,Gestão Turística e Hoteleira,48.0,112.0,18.0,7.0,32.0,7.0,32.0
+2025,9179_3186,3186,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Lamego,9179,"Gestão Turística, Cultural e Patrimonial",21.0,124.1,12.0,5.0,21.0,5.0,21.0
+2025,9181_0150,150,Universidade dos Açores - Faculdade de Ciências Sociais e Humanas,9181,História,20.0,140.6,19.0,16.0,20.0,16.0,20.0
+2025,9181_0505,505,Universidade de Coimbra - Faculdade de Letras,9181,História,63.0,160.3,63.0,61.0,63.0,61.0,63.0
+2025,9181_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9181,História,45.0,157.2,45.0,42.0,45.0,42.0,45.0
+2025,9181_1107,1107,Universidade do Porto - Faculdade de Letras,9181,História,77.0,159.5,77.0,70.0,77.0,70.0,77.0
+2025,9181_1506,1506,Universidade de Lisboa - Faculdade de Letras,9181,História,61.0,153.2,61.0,59.0,61.0,59.0,61.0
+2025,9182_0505,505,Universidade de Coimbra - Faculdade de Letras,9182,História da Arte,24.0,142.1,24.0,21.0,24.0,21.0,24.0
+2025,9182_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9182,História da Arte,40.0,133.3,40.0,38.0,40.0,38.0,40.0
+2025,9182_1107,1107,Universidade do Porto - Faculdade de Letras,9182,História da Arte,38.0,145.2,38.0,36.0,38.0,36.0,38.0
+2025,9182_1506,1506,Universidade de Lisboa - Faculdade de Letras,9182,História da Arte,40.0,139.7,40.0,38.0,40.0,38.0,40.0
+2025,9185_0160,160,Universidade dos Açores - Faculdade de Ciências e Tecnologia,9185,Informática,26.0,119.1,19.0,8.0,26.0,8.0,26.0
+2025,9185_3143,3143,Instituto Politécnico de Santarém - Escola Superior de Gestão e Tecnologia de Santarém,9185,Informática,66.0,122.9,19.0,4.0,60.0,4.0,60.0
+2025,9186_3063,3063,Instituto Politécnico de Coimbra - Instituto Superior de Contabilidade e Administração de Coimbra,9186,Informática de Gestão,41.0,131.4,41.0,39.0,41.0,39.0,41.0
+2025,9188_3045,3045,"Instituto Politécnico de Bragança - Escola Superior de Comunicação, Administração e Turismo de Mirandela",9188,Informática e Comunicações,42.0,137.2,2.0,0.0,6.0,0.0,6.0
+2025,9189_6800,6800,ISCTE - Instituto Universitário de Lisboa,9189,Informática e Gestão de Empresas,60.0,157.2,60.0,58.0,60.0,58.0,60.0
+2025,9191_3113,3113,Instituto Politécnico de Lisboa - Escola Superior de Comunicação Social,9191,Jornalismo,61.0,159.8,61.0,59.0,61.0,59.0,61.0
+2025,9192_1107,1107,Universidade do Porto - Faculdade de Letras,9192,Línguas Aplicadas,60.0,174.4,60.0,58.0,60.0,58.0,60.0
+2025,9196_1202,1202,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais,9196,Línguas e Relações Empresariais,60.0,156.7,60.0,58.0,60.0,58.0,60.0
+2025,9196_1306,1306,Universidade da Madeira - Faculdade de Artes e Humanidades,9196,Línguas e Relações Empresariais,43.0,147.1,43.0,40.0,43.0,40.0,43.0
+2025,9197_1107,1107,Universidade do Porto - Faculdade de Letras,9197,Línguas e Relações Internacionais,78.0,182.3,77.0,67.0,78.0,67.0,78.0
+2025,9204_0201,201,Universidade do Algarve - Faculdade de Ciências Humanas e Sociais,9204,"Línguas, Literaturas e Culturas",26.0,140.6,25.0,21.0,26.0,21.0,26.0
+2025,9204_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9204,"Línguas, Literaturas e Culturas",75.0,164.7,75.0,70.0,75.0,70.0,75.0
+2025,9204_1107,1107,Universidade do Porto - Faculdade de Letras,9204,"Línguas, Literaturas e Culturas",79.0,171.3,79.0,77.0,79.0,77.0,79.0
+2025,9204_1202,1202,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais,9204,"Línguas, Literaturas e Culturas",38.0,152.8,38.0,36.0,38.0,36.0,38.0
+2025,9204_1506,1506,Universidade de Lisboa - Faculdade de Letras,9204,"Línguas, Literaturas e Culturas",211.0,131.8,211.0,208.0,211.0,208.0,211.0
+2025,9205_3011,3011,Universidade de Aveiro - Instituto Superior de Contabilidade e Administração de Aveiro,9205,Marketing,33.0,162.4,33.0,30.0,33.0,30.0,33.0
+2025,9205_3045,3045,"Instituto Politécnico de Bragança - Escola Superior de Comunicação, Administração e Turismo de Mirandela",9205,Marketing,39.0,139.2,30.0,12.0,39.0,12.0,39.0
+2025,9205_3065,3065,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,9205,Marketing,33.0,145.6,33.0,30.0,33.0,30.0,33.0
+2025,9205_3082,3082,"Universidade do Algarve - Escola Superior de Gestão, Hotelaria e Turismo",9205,Marketing,33.0,145.3,33.0,29.0,33.0,29.0,33.0
+2025,9205_3092,3092,Instituto Politécnico da Guarda - Escola Superior de Tecnologia e Gestão,9205,Marketing,30.0,143.1,28.0,17.0,30.0,17.0,30.0
+2025,9205_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9205,Marketing,50.0,129.6,50.0,49.0,50.0,49.0,50.0
+2025,9205_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,9205,Marketing,90.0,167.9,89.0,85.0,90.0,85.0,90.0
+2025,9205_3153,3153,Instituto Politécnico de Setúbal - Escola Superior de Ciências Empresariais,9205,Marketing,55.0,152.2,54.0,46.0,55.0,46.0,55.0
+2025,9205_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,9205,Marketing,45.0,144.3,44.0,40.0,45.0,40.0,45.0
+2025,9207_3105,3105,Instituto Politécnico de Leiria - Escola Superior de Turismo e Tecnologia do Mar,9207,Marketing Turístico,36.0,124.7,30.0,14.0,36.0,14.0,36.0
+2025,9209_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9209,Matemática,40.0,136.2,40.0,38.0,40.0,38.0,40.0
+2025,9209_0903,903,Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia,9209,Matemática,25.0,165.7,25.0,23.0,25.0,23.0,25.0
+2025,9209_1103,1103,Universidade do Porto - Faculdade de Ciências,9209,Matemática,56.0,159.0,56.0,55.0,56.0,55.0,56.0
+2025,9209_1307,1307,Universidade da Madeira - Faculdade de Ciências Exatas e da Engenharia,9209,Matemática,22.0,139.9,13.0,5.0,22.0,5.0,22.0
+2025,9209_1503,1503,Universidade de Lisboa - Faculdade de Ciências,9209,Matemática,50.0,153.5,50.0,49.0,50.0,49.0,50.0
+2025,9210_0203,203,Universidade do Algarve - Faculdade de Ciências e Tecnologia,9210,Matemática Aplicada à Economia e à Gestão,25.0,123.6,16.0,10.0,21.0,10.0,21.0
+2025,9210_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9210,Matemática Aplicada à Economia e à Gestão,26.0,129.3,21.0,10.0,26.0,10.0,26.0
+2025,9210_1517,1517,Universidade de Lisboa - Instituto Superior de Economia e Gestão,9210,Matemática Aplicada à Economia e à Gestão,60.0,183.4,60.0,58.0,60.0,58.0,60.0
+2025,9212_1503,1503,Universidade de Lisboa - Faculdade de Ciências,9212,"Meteorologia, Oceanografia e Geofísica",23.0,128.0,23.0,16.0,23.0,16.0,23.0
+2025,9213_3045,3045,"Instituto Politécnico de Bragança - Escola Superior de Comunicação, Administração e Turismo de Mirandela",9213,Multimédia,51.0,116.1,14.0,2.0,48.0,2.0,48.0
+2025,9213_3331,3331,Instituto Politécnico do Porto - Escola Superior de Media Artes e Design,9213,Multimédia,25.0,172.7,25.0,23.0,25.0,23.0,25.0
+2025,9219_0150,150,Universidade dos Açores - Faculdade de Ciências Sociais e Humanas,9219,Psicologia,33.0,156.1,33.0,30.0,33.0,30.0,33.0
+2025,9219_0201,201,Universidade do Algarve - Faculdade de Ciências Humanas e Sociais,9219,Psicologia,65.0,161.1,64.0,62.0,65.0,62.0,65.0
+2025,9219_0604,604,Universidade de Évora - Escola de Ciências Sociais,9219,Psicologia,54.0,164.0,54.0,51.0,54.0,51.0,54.0
+2025,9219_1202,1202,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais,9219,Psicologia,71.0,166.0,71.0,68.0,71.0,68.0,71.0
+2025,9219_1306,1306,Universidade da Madeira - Faculdade de Artes e Humanidades,9219,Psicologia,30.0,155.5,29.0,27.0,30.0,27.0,30.0
+2025,9219_6800,6800,ISCTE - Instituto Universitário de Lisboa,9219,Psicologia,95.0,175.8,93.0,63.0,95.0,63.0,95.0
+2025,9222_3113,3113,Instituto Politécnico de Lisboa - Escola Superior de Comunicação Social,9222,Publicidade e Marketing,59.0,166.4,59.0,57.0,59.0,57.0,59.0
+2025,9223_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9223,Química,22.0,111.4,15.0,10.0,21.0,10.0,21.0
+2025,9223_1103,1103,Universidade do Porto - Faculdade de Ciências,9223,Química,45.0,116.2,23.0,13.0,41.0,13.0,41.0
+2025,9223_1503,1503,Universidade de Lisboa - Faculdade de Ciências,9223,Química,27.0,144.3,26.0,24.0,27.0,24.0,27.0
+2025,9224_0903,903,Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia,9224,Química Aplicada,30.0,146.0,29.0,27.0,30.0,27.0,30.0
+2025,9226_1503,1503,Universidade de Lisboa - Faculdade de Ciências,9226,Química Tecnológica,21.0,123.9,16.0,10.0,21.0,10.0,21.0
+2025,9227_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,9227,Recursos Humanos,46.0,162.0,46.0,43.0,46.0,43.0,46.0
+2025,9229_0503,503,Universidade de Coimbra - Faculdade de Economia,9229,Relações Internacionais,53.0,170.2,53.0,52.0,53.0,52.0,53.0
+2025,9229_0604,604,Universidade de Évora - Escola de Ciências Sociais,9229,Relações Internacionais,67.0,153.5,67.0,65.0,67.0,65.0,67.0
+2025,9229_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,9229,Relações Internacionais,70.0,166.6,70.0,68.0,70.0,68.0,70.0
+2025,9231_3113,3113,Instituto Politécnico de Lisboa - Escola Superior de Comunicação Social,9231,Relações Públicas e Comunicação Empresarial,59.0,160.4,59.0,57.0,59.0,57.0,59.0
+2025,9235_3012,3012,Universidade de Aveiro - Escola Superior de Tecnologia e Gestão de Águeda,9235,Secretariado e Comunicação Empresarial,25.0,145.2,24.0,22.0,25.0,22.0,25.0
+2025,9238_0150,150,Universidade dos Açores - Faculdade de Ciências Sociais e Humanas,9238,Serviço Social,35.0,129.8,34.0,33.0,35.0,33.0,35.0
+2025,9238_0507,507,Universidade de Coimbra - Faculdade de Psicologia e de Ciências da Educação,9238,Serviço Social,32.0,160.0,32.0,30.0,32.0,30.0,32.0
+2025,9238_1202,1202,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais,9238,Serviço Social,46.0,150.6,46.0,43.0,46.0,43.0,46.0
+2025,9238_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,9238,Serviço Social,54.0,151.1,54.0,53.0,54.0,53.0,54.0
+2025,9238_3022,3022,Instituto Politécnico de Beja - Escola Superior de Educação,9238,Serviço Social,50.0,122.9,49.0,37.0,50.0,37.0,50.0
+2025,9238_3052,3052,Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco,9238,Serviço Social,61.0,137.6,60.0,41.0,61.0,41.0,61.0
+2025,9238_3101,3101,Instituto Politécnico de Leiria - Escola Superior de Educação e Ciências Sociais,9238,Serviço Social,39.0,145.4,39.0,37.0,39.0,37.0,39.0
+2025,9238_3121,3121,Instituto Politécnico de Portalegre - Escola Superior de Educação e Ciências Sociais,9238,Serviço Social,40.0,128.5,39.0,33.0,40.0,33.0,40.0
+2025,9238_3186,3186,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Lamego,9238,Serviço Social,55.0,129.5,40.0,27.0,55.0,27.0,55.0
+2025,9240_0150,150,Universidade dos Açores - Faculdade de Ciências Sociais e Humanas,9240,Sociologia,28.0,109.7,28.0,25.0,28.0,25.0,28.0
+2025,9240_0204,204,Universidade do Algarve - Faculdade de Economia,9240,Sociologia,40.0,137.1,39.0,35.0,40.0,35.0,40.0
+2025,9240_0503,503,Universidade de Coimbra - Faculdade de Economia,9240,Sociologia,40.0,150.2,40.0,38.0,40.0,38.0,40.0
+2025,9240_0604,604,Universidade de Évora - Escola de Ciências Sociais,9240,Sociologia,41.0,142.4,41.0,39.0,41.0,39.0,41.0
+2025,9240_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9240,Sociologia,57.0,150.2,57.0,56.0,57.0,56.0,57.0
+2025,9240_1107,1107,Universidade do Porto - Faculdade de Letras,9240,Sociologia,44.0,154.1,44.0,41.0,44.0,41.0,44.0
+2025,9240_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,9240,Sociologia,46.0,147.5,46.0,43.0,46.0,43.0,46.0
+2025,9240_6800,6800,ISCTE - Instituto Universitário de Lisboa,9240,Sociologia,63.0,154.9,63.0,61.0,63.0,61.0,63.0
+2025,9242_3023,3023,Instituto Politécnico de Beja - Escola Superior de Tecnologia e de Gestão,9242,Solicitadoria,41.0,141.1,40.0,25.0,41.0,25.0,41.0
+2025,9242_3031,3031,Instituto Politécnico do Cávado e do Ave - Escola Superior de Gestão,9242,Solicitadoria,39.0,156.9,39.0,37.0,39.0,37.0,39.0
+2025,9242_3045,3045,"Instituto Politécnico de Bragança - Escola Superior de Comunicação, Administração e Turismo de Mirandela",9242,Solicitadoria,59.0,134.3,56.0,31.0,59.0,31.0,59.0
+2025,9242_3054,3054,Instituto Politécnico de Castelo Branco - Escola Superior de Gestão de Idanha-a-Nova,9242,Solicitadoria,40.0,139.7,34.0,14.0,40.0,14.0,40.0
+2025,9242_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9242,Solicitadoria,62.0,146.4,62.0,61.0,62.0,61.0,62.0
+2025,9242_3117,3117,Instituto Politécnico de Lisboa - Instituto Superior de Contabilidade e Administração de Lisboa,9242,Solicitadoria,54.0,156.2,54.0,53.0,54.0,53.0,54.0
+2025,9242_3138,3138,Instituto Politécnico do Porto - Escola Superior de Tecnologia e Gestão,9242,Solicitadoria,38.0,165.2,38.0,36.0,38.0,36.0,38.0
+2025,9243_0603,603,Universidade de Évora - Escola de Artes,9243,Teatro,22.0,142.5,21.0,18.0,22.0,18.0,22.0
+2025,9243_3103,3103,Instituto Politécnico de Leiria - Escola Superior de Artes e Design,9243,Teatro,24.0,150.0,24.0,21.0,24.0,21.0,24.0
+2025,9252_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9252,Tradução,60.0,162.0,60.0,58.0,60.0,58.0,60.0
+2025,9252_1506,1506,Universidade de Lisboa - Faculdade de Letras,9252,Tradução,58.0,151.6,58.0,57.0,58.0,57.0,58.0
+2025,9254_0170,170,Universidade dos Açores - Faculdade de Economia e Gestão,9254,Turismo,25.0,126.9,24.0,17.0,25.0,17.0,25.0
+2025,9254_0604,604,Universidade de Évora - Escola de Ciências Sociais,9254,Turismo,44.0,131.7,44.0,41.0,44.0,41.0,44.0
+2025,9254_1202,1202,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais,9254,Turismo,57.0,137.3,57.0,56.0,57.0,56.0,57.0
+2025,9254_3023,3023,Instituto Politécnico de Beja - Escola Superior de Tecnologia e de Gestão,9254,Turismo,39.0,114.0,18.0,7.0,25.0,7.0,25.0
+2025,9254_3045,3045,"Instituto Politécnico de Bragança - Escola Superior de Comunicação, Administração e Turismo de Mirandela",9254,Turismo,45.0,109.5,18.0,6.0,31.0,6.0,31.0
+2025,9254_3054,3054,Instituto Politécnico de Castelo Branco - Escola Superior de Gestão de Idanha-a-Nova,9254,Turismo,25.0,107.0,16.0,10.0,25.0,10.0,25.0
+2025,9254_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,9254,Turismo,35.0,144.5,34.0,33.0,35.0,33.0,35.0
+2025,9254_3082,3082,"Universidade do Algarve - Escola Superior de Gestão, Hotelaria e Turismo",9254,Turismo,65.0,134.3,64.0,62.0,65.0,62.0,65.0
+2025,9254_3087,3087,"Universidade do Algarve - Escola Superior de Gestão, Hotelaria e Turismo (Portimão)",9254,Turismo,40.0,119.5,29.0,11.0,40.0,11.0,40.0
+2025,9254_3105,3105,Instituto Politécnico de Leiria - Escola Superior de Turismo e Tecnologia do Mar,9254,Turismo,51.0,117.7,46.0,19.0,51.0,19.0,51.0
+2025,9254_3121,3121,Instituto Politécnico de Portalegre - Escola Superior de Educação e Ciências Sociais,9254,Turismo,27.0,119.5,13.0,4.0,23.0,4.0,23.0
+2025,9254_3163,3163,Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão,9254,Turismo,55.0,124.8,49.0,24.0,55.0,24.0,55.0
+2025,9254_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,9254,Turismo,47.0,123.6,38.0,12.0,47.0,12.0,47.0
+2025,9255_3095,3095,Instituto Politécnico da Guarda - Escola Superior de Turismo e Hotelaria,9255,Turismo e Lazer,20.0,112.2,4.0,1.0,8.0,1.0,8.0
+2025,9257_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9257,Arquitetura,61.0,150.2,61.0,59.0,61.0,59.0,61.0
+2025,9257_0603,603,Universidade de Évora - Escola de Artes,9257,Arquitetura,34.0,148.0,33.0,30.0,34.0,30.0,34.0
+2025,9257_1102,1102,Universidade do Porto - Faculdade de Arquitetura,9257,Arquitetura,124.0,183.5,124.0,121.0,124.0,121.0,124.0
+2025,9257_1501,1501,Universidade de Lisboa - Faculdade de Arquitetura,9257,Arquitetura,209.0,165.3,207.0,156.0,209.0,156.0,209.0
+2025,9257_1518,1518,Universidade de Lisboa - Instituto Superior Técnico,9257,Arquitetura,47.0,154.2,47.0,46.0,47.0,46.0,47.0
+2025,9257_6800,6800,ISCTE - Instituto Universitário de Lisboa,9257,Arquitetura,51.0,154.2,51.0,49.0,51.0,49.0,51.0
+2025,9345_1518,1518,Universidade de Lisboa - Instituto Superior Técnico,9345,Matemática Aplicada e Computação,68.0,174.2,68.0,65.0,68.0,65.0,68.0
+2025,9347_0603,603,Universidade de Évora - Escola de Artes,9347,Artes Plásticas e Multimédia,33.0,135.2,33.0,29.0,33.0,29.0,33.0
+2025,9347_3181,3181,Instituto Politécnico de Viseu - Escola Superior de Educação de Viseu,9347,Artes Plásticas e Multimédia,45.0,116.1,40.0,25.0,45.0,25.0,45.0
+2025,9348_0903,903,Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia,9348,Biologia Celular e Molecular,65.0,172.8,64.0,62.0,65.0,62.0,65.0
+2025,9350_3021,3021,Instituto Politécnico de Beja - Escola Superior Agrária,9350,Ciência e Tecnologia dos Alimentos,26.0,106.3,2.0,1.0,6.0,1.0,6.0
+2025,9379_1204,1204,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências da Vida e do Ambiente,9379,Ciências do Ambiente,20.0,126.3,12.0,4.0,18.0,4.0,18.0
+2025,9380_3242,3242,Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar,9380,Conservação e Restauro,33.0,130.5,33.0,29.0,33.0,29.0,33.0
+2025,9381_1503,1503,Universidade de Lisboa - Faculdade de Ciências,9381,Estatística Aplicada,30.0,144.3,29.0,27.0,30.0,27.0,30.0
+2025,9385_1503,1503,Universidade de Lisboa - Faculdade de Ciências,9385,Matemática Aplicada,77.0,155.8,77.0,70.0,77.0,70.0,77.0
+2025,9448_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9448,Antropologia,47.0,126.9,47.0,46.0,47.0,46.0,47.0
+2025,9448_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9448,Antropologia,43.0,141.1,43.0,40.0,43.0,40.0,43.0
+2025,9448_1516,1516,Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas,9448,Antropologia,41.0,140.8,41.0,39.0,41.0,39.0,41.0
+2025,9448_6800,6800,ISCTE - Instituto Universitário de Lisboa,9448,Antropologia,27.0,144.8,26.0,24.0,27.0,24.0,27.0
+2025,9455_1203,1203,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia,9455,Engenharia Biomédica,25.0,142.3,17.0,13.0,23.0,13.0,23.0
+2025,9455_3064,3064,Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra,9455,Engenharia Biomédica,32.0,119.3,23.0,11.0,30.0,11.0,30.0
+2025,9455_3118,3118,Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa,9455,Engenharia Biomédica,26.0,143.8,25.0,23.0,26.0,23.0,26.0
+2025,9455_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,9455,Engenharia Biomédica,49.0,172.8,49.0,48.0,49.0,48.0,49.0
+2025,9457_3103,3103,Instituto Politécnico de Leiria - Escola Superior de Artes e Design,9457,Som e Imagem,65.0,136.2,64.0,62.0,65.0,62.0,65.0
+2025,9470_3033,3033,Instituto Politécnico do Cávado e do Ave - Escola Superior de Design,9470,Design Gráfico,44.0,156.9,44.0,41.0,44.0,41.0,44.0
+2025,9473_3162,3162,Instituto Politécnico de Viana do Castelo - Escola Superior de Educação,9473,Educação Social Gerontológica,26.0,107.3,24.0,18.0,26.0,18.0,26.0
+2025,9476_3117,3117,Instituto Politécnico de Lisboa - Instituto Superior de Contabilidade e Administração de Lisboa,9476,Finanças Empresariais,54.0,161.2,54.0,53.0,54.0,53.0,54.0
+2025,9484_3095,3095,Instituto Politécnico da Guarda - Escola Superior de Turismo e Hotelaria,9484,Restauração e Catering,20.0,131.1,4.0,1.0,8.0,1.0,8.0
+2025,9485_3052,3052,Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco,9485,Secretariado,35.0,101.6,14.0,3.0,35.0,3.0,35.0
+2025,9491_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,9491,Tecnologias e Design de Multimédia,48.0,111.2,41.0,22.0,48.0,22.0,48.0
+2025,9492_3101,3101,Instituto Politécnico de Leiria - Escola Superior de Educação e Ciências Sociais,9492,Tradução e Interpretação: Português/Chinês - Chinês/Português,24.0,142.4,24.0,21.0,24.0,21.0,24.0
+2025,9494_0203,203,Universidade do Algarve - Faculdade de Ciências e Tecnologia,9494,Ciências Farmacêuticas,50.0,134.1,50.0,49.0,50.0,49.0,50.0
+2025,9494_0504,504,Universidade de Coimbra - Faculdade de Farmácia,9494,Ciências Farmacêuticas,211.0,148.1,211.0,209.0,211.0,209.0,211.0
+2025,9494_1106,1106,Universidade do Porto - Faculdade de Farmácia,9494,Ciências Farmacêuticas,175.0,152.9,175.0,172.0,175.0,172.0,175.0
+2025,9494_1505,1505,Universidade de Lisboa - Faculdade de Farmácia,9494,Ciências Farmacêuticas,215.0,152.9,214.0,208.0,215.0,208.0,215.0
+2025,9498_3143,3143,Instituto Politécnico de Santarém - Escola Superior de Gestão e Tecnologia de Santarém,9498,Contabilidade e Fiscalidade,45.0,120.5,43.0,25.0,45.0,25.0,45.0
+2025,9498_3164,3164,Instituto Politécnico de Viana do Castelo - Escola Superior de Ciências Empresariais,9498,Contabilidade e Fiscalidade,28.0,123.3,28.0,24.0,28.0,24.0,28.0
+2025,9500_1320,1320,Universidade da Madeira - Escola Superior de Saúde,9500,Enfermagem,26.0,157.3,25.0,24.0,26.0,24.0,26.0
+2025,9500_3013,3013,Universidade de Aveiro - Escola Superior de Saúde de Aveiro,9500,Enfermagem,82.0,155.3,82.0,79.0,82.0,79.0,82.0
+2025,9500_3155,3155,Instituto Politécnico de Setúbal - Escola Superior de Saúde,9500,Enfermagem,46.0,151.6,46.0,43.0,46.0,43.0,46.0
+2025,9500_7005,7005,Instituto Politécnico de Beja - Escola Superior de Saúde,9500,Enfermagem,36.0,145.0,36.0,35.0,36.0,35.0,36.0
+2025,9500_7010,7010,Universidade do Minho - Escola Superior de Enfermagem,9500,Enfermagem,80.0,158.4,80.0,78.0,80.0,78.0,80.0
+2025,9500_7015,7015,Instituto Politécnico de Bragança - Escola Superior de Saúde de Bragança,9500,Enfermagem,50.0,144.6,50.0,49.0,50.0,49.0,50.0
+2025,9500_7020,7020,Instituto Politécnico de Castelo Branco - Escola Superior de Saúde Dr. Lopes Dias,9500,Enfermagem,54.0,146.6,54.0,53.0,54.0,53.0,54.0
+2025,9500_7030,7030,Universidade de Évora - Escola Superior de Enfermagem de São João de Deus,9500,Enfermagem,65.0,145.2,64.0,62.0,65.0,62.0,65.0
+2025,9500_7035,7035,Universidade do Algarve - Escola Superior de Saúde,9500,Enfermagem,40.0,151.4,39.0,38.0,40.0,38.0,40.0
+2025,9500_7040,7040,Instituto Politécnico da Guarda - Escola Superior de Saúde da Guarda,9500,Enfermagem,90.0,130.3,84.0,19.0,90.0,19.0,90.0
+2025,9500_7045,7045,Instituto Politécnico de Leiria - Escola Superior de Saúde,9500,Enfermagem,85.0,145.3,85.0,83.0,85.0,83.0,85.0
+2025,9500_7055,7055,Instituto Politécnico de Portalegre - Escola Superior de Saúde,9500,Enfermagem,65.0,131.1,49.0,5.0,65.0,5.0,65.0
+2025,9500_7065,7065,Instituto Politécnico de Santarém - Escola Superior de Saúde de Santarém,9500,Enfermagem,71.0,144.5,71.0,68.0,71.0,68.0,71.0
+2025,9500_7075,7075,Instituto Politécnico de Viana do Castelo - Escola Superior de Saúde,9500,Enfermagem,70.0,146.5,70.0,68.0,70.0,68.0,70.0
+2025,9500_7080,7080,Universidade de Trás-os-Montes e Alto Douro - Escola Superior de Saúde,9500,Enfermagem,95.0,147.0,95.0,90.0,95.0,90.0,95.0
+2025,9500_7085,7085,Instituto Politécnico de Viseu - Escola Superior de Saúde de Viseu,9500,Enfermagem,90.0,147.3,89.0,85.0,90.0,85.0,90.0
+2025,9500_7092,7092,Universidade dos Açores - Escola Superior de Saúde - Angra do Heroísmo,9500,Enfermagem,39.0,129.2,39.0,37.0,39.0,37.0,39.0
+2025,9500_7093,7093,Universidade dos Açores - Escola Superior de Saúde - Ponta Delgada,9500,Enfermagem,40.0,142.5,40.0,38.0,40.0,38.0,40.0
+2025,9501_7015,7015,Instituto Politécnico de Bragança - Escola Superior de Saúde de Bragança,9501,Enfermagem (entrada no 2.º semestre),45.0,123.1,26.0,6.0,45.0,6.0,45.0
+2025,9504_3013,3013,Universidade de Aveiro - Escola Superior de Saúde de Aveiro,9504,Fisioterapia,40.0,164.6,40.0,38.0,40.0,38.0,40.0
+2025,9504_3155,3155,Instituto Politécnico de Setúbal - Escola Superior de Saúde,9504,Fisioterapia,44.0,157.9,44.0,41.0,44.0,41.0,44.0
+2025,9504_7020,7020,Instituto Politécnico de Castelo Branco - Escola Superior de Saúde Dr. Lopes Dias,9504,Fisioterapia,35.0,157.5,34.0,33.0,35.0,33.0,35.0
+2025,9504_7045,7045,Instituto Politécnico de Leiria - Escola Superior de Saúde,9504,Fisioterapia,34.0,156.9,33.0,30.0,34.0,30.0,34.0
+2025,9504_7210,7210,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia da Saúde de Coimbra,9504,Fisioterapia,43.0,164.6,43.0,40.0,43.0,40.0,43.0
+2025,9504_7220,7220,Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa,9504,Fisioterapia,48.0,167.0,48.0,46.0,48.0,46.0,48.0
+2025,9504_7230,7230,Instituto Politécnico do Porto - Escola Superior de Saúde,9504,Fisioterapia,63.0,167.4,63.0,61.0,63.0,61.0,63.0
+2025,9540_0203,203,Universidade do Algarve - Faculdade de Ciências e Tecnologia,9540,Bioengenharia,20.0,131.8,11.0,6.0,16.0,6.0,16.0
+2025,9540_1204,1204,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências da Vida e do Ambiente,9540,Bioengenharia,20.0,132.1,17.0,13.0,20.0,13.0,20.0
+2025,9540_3064,3064,Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra,9540,Bioengenharia,27.0,132.9,15.0,5.0,20.0,5.0,20.0
+2025,9548_0506,506,Universidade de Coimbra - Faculdade de Medicina,9548,Medicina Dentária,60.0,178.1,60.0,58.0,60.0,58.0,60.0
+2025,9548_1113,1113,Universidade do Porto - Faculdade de Medicina Dentária,9548,Medicina Dentária,66.0,177.1,66.0,63.0,66.0,63.0,66.0
+2025,9548_1508,1508,Universidade de Lisboa - Faculdade de Medicina Dentária,9548,Medicina Dentária,70.0,179.0,70.0,68.0,70.0,68.0,70.0
+2025,9549_7015,7015,Instituto Politécnico de Bragança - Escola Superior de Saúde de Bragança,9549,Farmácia,55.0,129.6,20.0,4.0,53.0,4.0,53.0
+2025,9549_7035,7035,Universidade do Algarve - Escola Superior de Saúde,9549,Farmácia,25.0,143.3,25.0,23.0,25.0,23.0,25.0
+2025,9549_7040,7040,Instituto Politécnico da Guarda - Escola Superior de Saúde da Guarda,9549,Farmácia,40.0,129.6,17.0,3.0,26.0,3.0,26.0
+2025,9549_7210,7210,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia da Saúde de Coimbra,9549,Farmácia,41.0,143.8,41.0,39.0,41.0,39.0,41.0
+2025,9549_7220,7220,Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa,9549,Farmácia,54.0,153.5,54.0,53.0,54.0,53.0,54.0
+2025,9549_7230,7230,Instituto Politécnico do Porto - Escola Superior de Saúde,9549,Farmácia,50.0,151.4,50.0,49.0,50.0,49.0,50.0
+2025,9554_0901,901,Universidade Nova de Lisboa - Faculdade de Ciências Médicas,9554,Ciências da Nutrição,20.0,161.3,19.0,17.0,20.0,17.0,20.0
+2025,9554_1101,1101,Universidade do Porto - Faculdade de Ciências da Nutrição e da Alimentação,9554,Ciências da Nutrição,65.0,153.7,64.0,62.0,65.0,62.0,65.0
+2025,9554_1204,1204,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências da Vida e do Ambiente,9554,Ciências da Nutrição,42.0,146.1,42.0,40.0,42.0,40.0,42.0
+2025,9554_1507,1507,Universidade de Lisboa - Faculdade de Medicina,9554,Ciências da Nutrição,30.0,162.8,29.0,27.0,30.0,27.0,30.0
+2025,9556_1508,1508,Universidade de Lisboa - Faculdade de Medicina Dentária,9556,Higiene Oral,44.0,151.8,44.0,41.0,44.0,41.0,44.0
+2025,9556_7055,7055,Instituto Politécnico de Portalegre - Escola Superior de Saúde,9556,Higiene Oral,20.0,135.4,16.0,12.0,20.0,12.0,20.0
+2025,9563_3022,3022,Instituto Politécnico de Beja - Escola Superior de Educação,9563,Desporto,32.0,141.2,32.0,25.0,32.0,25.0,32.0
+2025,9563_3042,3042,Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança,9563,Desporto,56.0,115.4,50.0,19.0,56.0,19.0,56.0
+2025,9563_3081,3081,Universidade do Algarve - Escola Superior de Educação e Comunicação,9563,Desporto,41.0,144.1,41.0,39.0,41.0,39.0,41.0
+2025,9563_3091,3091,"Instituto Politécnico da Guarda - Escola Superior de Educação, Comunicação e Desporto",9563,Desporto,50.0,136.1,49.0,37.0,50.0,37.0,50.0
+2025,9563_3131,3131,Instituto Politécnico do Porto - Escola Superior de Educação,9563,Desporto,25.0,152.7,25.0,23.0,25.0,23.0,25.0
+2025,9563_3151,3151,Instituto Politécnico de Setúbal - Escola Superior de Educação,9563,Desporto,31.0,138.0,31.0,29.0,31.0,29.0,31.0
+2025,9627_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9627,Contabilidade e Finanças,45.0,126.6,45.0,42.0,45.0,42.0,45.0
+2025,9627_3153,3153,Instituto Politécnico de Setúbal - Escola Superior de Ciências Empresariais,9627,Contabilidade e Finanças,57.0,147.5,57.0,51.0,57.0,51.0,57.0
+2025,9628_3153,3153,Instituto Politécnico de Setúbal - Escola Superior de Ciências Empresariais,9628,Contabilidade e Finanças (regime noturno),28.0,131.1,28.0,24.0,28.0,24.0,28.0
+2025,9629_3153,3153,Instituto Politécnico de Setúbal - Escola Superior de Ciências Empresariais,9629,Gestão da Distribuição e da Logística,47.0,140.3,47.0,46.0,47.0,46.0,47.0
+2025,9630_3153,3153,Instituto Politécnico de Setúbal - Escola Superior de Ciências Empresariais,9630,Gestão de Sistemas de Informação,69.0,135.9,69.0,62.0,69.0,62.0,69.0
+2025,9633_3151,3151,Instituto Politécnico de Setúbal - Escola Superior de Educação,9633,Tradução e Interpretação de Língua Gestual Portuguesa,20.0,141.5,19.0,16.0,20.0,16.0,20.0
+2025,9640_3241,3241,Instituto Politécnico de Tomar - Escola Superior de Gestão de Tomar,9640,Gestão de Recursos Humanos e Comportamento Organizacional,40.0,128.3,32.0,9.0,40.0,9.0,40.0
+2025,9644_3242,3242,Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar,9644,Design e Tecnologia das Artes Gráficas,45.0,120.2,41.0,26.0,45.0,26.0,45.0
+2025,9645_3242,3242,Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar,9645,Fotografia,30.0,118.9,26.0,11.0,30.0,11.0,30.0
+2025,9645_3331,3331,Instituto Politécnico do Porto - Escola Superior de Media Artes e Design,9645,Fotografia,20.0,155.9,19.0,17.0,20.0,17.0,20.0
+2025,9648_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9648,Engenharia da Energia e do Ambiente,14.0,138.9,4.0,2.0,11.0,2.0,11.0
+2025,9652_3091,3091,"Instituto Politécnico da Guarda - Escola Superior de Educação, Comunicação e Desporto",9652,Comunicação e Relações Públicas,41.0,115.4,33.0,14.0,41.0,14.0,41.0
+2025,9664_3164,3164,Instituto Politécnico de Viana do Castelo - Escola Superior de Ciências Empresariais,9664,Marketing e Comunicação Empresarial,40.0,149.6,40.0,38.0,40.0,38.0,40.0
+2025,9668_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,9668,Gerontologia Social,40.0,122.3,40.0,38.0,40.0,38.0,40.0
+2025,9675_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,9675,Animação Socioeducativa,39.0,139.5,39.0,37.0,39.0,37.0,39.0
+2025,9687_3154,3154,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia do Barreiro,9687,Bioinformática,32.0,120.8,17.0,7.0,32.0,7.0,32.0
+2025,9690_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9690,Biomecânica,25.0,130.7,24.0,23.0,25.0,23.0,25.0
+2025,9694_0505,505,Universidade de Coimbra - Faculdade de Letras,9694,Ciência da Informação,29.0,143.5,29.0,25.0,29.0,25.0,29.0
+2025,9694_1107,1107,Universidade do Porto - Faculdade de Letras,9694,Ciência da Informação,46.0,152.0,46.0,43.0,46.0,43.0,46.0
+2025,9696_1103,1103,Universidade do Porto - Faculdade de Ciências,9696,Ciência de Computadores,57.0,157.4,57.0,56.0,57.0,56.0,57.0
+2025,9707_0508,508,Universidade de Coimbra - Faculdade de Ciências do Desporto e Educação Física,9707,Ciências do Desporto,122.0,143.1,122.0,120.0,122.0,120.0,122.0
+2025,9707_1111,1111,Universidade do Porto - Faculdade de Desporto,9707,Ciências do Desporto,123.0,152.3,122.0,120.0,123.0,120.0,123.0
+2025,9707_1204,1204,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências da Vida e do Ambiente,9707,Ciências do Desporto,125.0,145.7,124.0,117.0,125.0,117.0,125.0
+2025,9707_1510,1510,Universidade de Lisboa - Faculdade de Motricidade Humana,9707,Ciências do Desporto,168.0,131.4,167.0,160.0,168.0,160.0,168.0
+2025,9708_1110,1110,Universidade do Porto - Instituto de Ciências Biomédicas Abel Salazar,9708,Ciências do Meio Aquático,35.0,155.0,34.0,33.0,35.0,33.0,35.0
+2025,9709_1103,1103,Universidade do Porto - Faculdade de Ciências,9709,Ciências e Tecnologia do Ambiente,40.0,136.8,40.0,38.0,40.0,38.0,40.0
+2025,9716_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,9716,Comércio Internacional,35.0,167.7,34.0,33.0,35.0,33.0,35.0
+2025,9717_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,9717,Comunicação Organizacional,43.0,149.5,43.0,40.0,43.0,40.0,43.0
+2025,9720_1306,1306,Universidade da Madeira - Faculdade de Artes e Humanidades,9720,"Comunicação, Cultura e Organizações",37.0,126.9,37.0,35.0,37.0,35.0,37.0
+2025,9722_3063,3063,Instituto Politécnico de Coimbra - Instituto Superior de Contabilidade e Administração de Coimbra,9722,Contabilidade e Gestão Pública,40.0,138.3,40.0,38.0,40.0,38.0,40.0
+2025,9723_3163,3163,Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão,9723,Design de Ambientes,28.0,130.5,28.0,25.0,28.0,25.0,28.0
+2025,9725_3055,3055,Instituto Politécnico de Castelo Branco - Escola Superior de Artes Aplicadas,9725,Design de Interiores e Equipamento,45.0,146.0,45.0,42.0,45.0,42.0,45.0
+2025,9726_3055,3055,Instituto Politécnico de Castelo Branco - Escola Superior de Artes Aplicadas,9726,Design de Moda e Têxtil,43.0,152.5,43.0,40.0,43.0,40.0,43.0
+2025,9727_3163,3163,Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão,9727,Design do Produto,40.0,131.6,40.0,38.0,40.0,38.0,40.0
+2025,9729_3103,3103,Instituto Politécnico de Leiria - Escola Superior de Artes e Design,9729,Design Gráfico e Multimédia,80.0,152.2,79.0,75.0,80.0,75.0,80.0
+2025,9730_3145,3145,Instituto Politécnico de Santarém - Escola Superior de Desporto de Rio Maior,9730,Desporto de Natureza e Turismo Ativo,24.0,121.4,20.0,8.0,24.0,8.0,24.0
+2025,9731_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,9731,Desporto e Lazer,30.0,141.1,29.0,27.0,30.0,27.0,30.0
+2025,9731_3165,3165,Instituto Politécnico de Viana do Castelo - Escola Superior de Desporto e Lazer,9731,Desporto e Lazer,70.0,140.0,70.0,63.0,70.0,63.0,70.0
+2025,9736_1308,1308,Universidade da Madeira - Faculdade de Ciências Sociais,9736,Educação Física e Desporto,31.0,145.4,31.0,29.0,31.0,29.0,31.0
+2025,9741_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9741,Engenharia Automóvel,40.0,108.9,32.0,23.0,40.0,23.0,40.0
+2025,9743_3163,3163,Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão,9743,Engenharia Civil e do Ambiente,32.0,119.6,4.0,0.0,13.0,0.0,13.0
+2025,9751_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9751,Engenharia Mecatrónica,40.0,134.3,15.0,5.0,23.0,5.0,23.0
+2025,9752_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9752,Enologia,21.0,103.5,12.0,4.0,21.0,4.0,21.0
+2025,9752_1201,1201,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Agrárias e Veterinárias,9752,Enologia,32.0,121.1,27.0,14.0,32.0,14.0,32.0
+2025,9754_1502,1502,Universidade de Lisboa - Faculdade de Belas-Artes,9754,Escultura,55.0,153.3,55.0,53.0,55.0,53.0,55.0
+2025,9759_3031,3031,Instituto Politécnico do Cávado e do Ave - Escola Superior de Gestão,9759,Fiscalidade,31.0,143.9,31.0,29.0,31.0,29.0,31.0
+2025,9761_1204,1204,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências da Vida e do Ambiente,9761,Genética e Biotecnologia,52.0,108.5,51.0,19.0,52.0,19.0,52.0
+2025,9763_3145,3145,Instituto Politécnico de Santarém - Escola Superior de Desporto de Rio Maior,9763,Gestão das Organizações Desportivas,23.0,130.0,23.0,21.0,23.0,21.0,23.0
+2025,9770_3064,3064,Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra,9770,Engenharia Informática (Curso Europeu),20.0,143.3,19.0,16.0,20.0,16.0,20.0
+2025,9773_0505,505,Universidade de Coimbra - Faculdade de Letras,9773,Jornalismo e Comunicação,52.0,163.5,52.0,52.0,52.0,52.0,52.0
+2025,9773_3121,3121,Instituto Politécnico de Portalegre - Escola Superior de Educação e Ciências Sociais,9773,Jornalismo e Comunicação,40.0,144.6,39.0,33.0,40.0,33.0,40.0
+2025,9774_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,9774,Língua Gestual Portuguesa,30.0,124.4,29.0,27.0,30.0,27.0,30.0
+2025,9779_0505,505,Universidade de Coimbra - Faculdade de Letras,9779,Línguas Modernas,82.0,162.0,82.0,79.0,82.0,79.0,82.0
+2025,9785_3143,3143,Instituto Politécnico de Santarém - Escola Superior de Gestão e Tecnologia de Santarém,9785,Negócios Internacionais,45.0,133.7,44.0,40.0,45.0,40.0,45.0
+2025,9787_0604,604,Universidade de Évora - Escola de Ciências Sociais,9787,Património Cultural,22.0,128.2,21.0,18.0,22.0,18.0,22.0
+2025,9790_1502,1502,Universidade de Lisboa - Faculdade de Belas-Artes,9790,Pintura,55.0,167.6,55.0,53.0,55.0,53.0,55.0
+2025,9791_1508,1508,Universidade de Lisboa - Faculdade de Medicina Dentária,9791,Prótese Dentária,27.0,145.2,26.0,24.0,27.0,24.0,27.0
+2025,9797_3101,3101,Instituto Politécnico de Leiria - Escola Superior de Educação e Ciências Sociais,9797,Relações Humanas e Comunicação Organizacional,39.0,134.1,39.0,37.0,39.0,37.0,39.0
+2025,9801_3063,3063,Instituto Politécnico de Coimbra - Instituto Superior de Contabilidade e Administração de Coimbra,9801,Solicitadoria e Administração,66.0,147.8,66.0,63.0,66.0,63.0,66.0
+2025,9803_1202,1202,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais,9803,Teatro e Artes Performativas,24.0,139.7,16.0,4.0,23.0,4.0,23.0
+2025,9807_3131,3131,Instituto Politécnico do Porto - Escola Superior de Educação,9807,Tradução e Interpretação em Língua Gestual Portuguesa,22.0,147.0,21.0,18.0,22.0,18.0,22.0
+2025,9808_3145,3145,Instituto Politécnico de Santarém - Escola Superior de Desporto de Rio Maior,9808,Treino Desportivo,110.0,129.9,109.0,104.0,110.0,104.0,110.0
+2025,9813_0506,506,Universidade de Coimbra - Faculdade de Medicina,9813,Medicina,289.0,179.9,288.0,258.0,289.0,258.0,289.0
+2025,9813_0901,901,Universidade Nova de Lisboa - Faculdade de Ciências Médicas,9813,Medicina,232.0,180.4,231.0,230.0,232.0,230.0,232.0
+2025,9813_1108,1108,Universidade do Porto - Faculdade de Medicina,9813,Medicina,282.0,183.8,282.0,276.0,282.0,276.0,282.0
+2025,9813_1110,1110,Universidade do Porto - Instituto de Ciências Biomédicas Abel Salazar,9813,Medicina,155.0,186.1,155.0,155.0,155.0,155.0,155.0
+2025,9813_1507,1507,Universidade de Lisboa - Faculdade de Medicina,9813,Medicina,301.0,179.4,298.0,290.0,300.0,290.0,300.0
+2025,9817_0201,201,Universidade do Algarve - Faculdade de Ciências Humanas e Sociais,9817,Artes Visuais,27.0,122.2,26.0,22.0,27.0,22.0,27.0
+2025,9817_1306,1306,Universidade da Madeira - Faculdade de Artes e Humanidades,9817,Artes Visuais,18.0,116.4,17.0,13.0,18.0,13.0,18.0
+2025,9818_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9818,Ciência e Tecnologia Animal,38.0,135.9,30.0,13.0,38.0,13.0,38.0
+2025,9819_0504,504,Universidade de Coimbra - Faculdade de Farmácia,9819,Ciências Bioanalíticas,27.0,137.2,26.0,24.0,27.0,24.0,27.0
+2025,9821_0201,201,Universidade do Algarve - Faculdade de Ciências Humanas e Sociais,9821,Ciências da Educação e da Formação,31.0,142.5,31.0,29.0,31.0,29.0,31.0
+2025,9829_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,9829,Assessoria e Tradução (regime pós-laboral),27.0,149.3,26.0,24.0,27.0,24.0,27.0
+2025,9832_0504,504,Universidade de Coimbra - Faculdade de Farmácia,9832,Farmácia Biomédica,30.0,139.8,29.0,27.0,30.0,27.0,30.0
+2025,9833_7015,7015,Instituto Politécnico de Bragança - Escola Superior de Saúde de Bragança,9833,Gerontologia,20.0,143.2,5.0,1.0,13.0,1.0,13.0
+2025,9841_1510,1510,Universidade de Lisboa - Faculdade de Motricidade Humana,9841,Reabilitação Psicomotora,49.0,144.4,49.0,48.0,49.0,48.0,49.0
+2025,9847_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9847,Medicina Veterinária,57.0,165.5,57.0,51.0,57.0,51.0,57.0
+2025,9847_1110,1110,Universidade do Porto - Instituto de Ciências Biomédicas Abel Salazar,9847,Medicina Veterinária,63.0,173.5,63.0,61.0,63.0,61.0,63.0
+2025,9847_1201,1201,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Agrárias e Veterinárias,9847,Medicina Veterinária,92.0,169.6,92.0,86.0,92.0,86.0,92.0
+2025,9847_1509,1509,Universidade de Lisboa - Faculdade de Medicina Veterinária,9847,Medicina Veterinária,109.0,164.7,109.0,105.0,109.0,105.0,109.0
+2025,9848_3105,3105,Instituto Politécnico de Leiria - Escola Superior de Turismo e Tecnologia do Mar,9848,Animação Turística,25.0,116.2,16.0,10.0,21.0,10.0,21.0
+2025,9850_3052,3052,Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco,9850,Desporto e Atividade Física,53.0,141.4,53.0,50.0,53.0,50.0,53.0
+2025,9850_3181,3181,Instituto Politécnico de Viseu - Escola Superior de Educação de Viseu,9850,Desporto e Atividade Física,37.0,142.1,37.0,29.0,37.0,29.0,37.0
+2025,9851_3101,3101,Instituto Politécnico de Leiria - Escola Superior de Educação e Ciências Sociais,9851,Desporto e Bem-Estar,50.0,140.7,50.0,49.0,50.0,49.0,50.0
+2025,9853_0150,150,Universidade dos Açores - Faculdade de Ciências Sociais e Humanas,9853,Educação Básica,22.0,116.7,21.0,17.0,22.0,17.0,22.0
+2025,9853_0604,604,Universidade de Évora - Escola de Ciências Sociais,9853,Educação Básica,29.0,132.4,28.0,19.0,29.0,19.0,29.0
+2025,9853_1202,1202,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais,9853,Educação Básica,46.0,143.9,46.0,43.0,46.0,43.0,46.0
+2025,9853_1308,1308,Universidade da Madeira - Faculdade de Ciências Sociais,9853,Educação Básica,25.0,139.4,24.0,19.0,25.0,19.0,25.0
+2025,9853_3022,3022,Instituto Politécnico de Beja - Escola Superior de Educação,9853,Educação Básica,32.0,115.6,30.0,21.0,32.0,21.0,32.0
+2025,9853_3042,3042,Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança,9853,Educação Básica,70.0,115.5,58.0,28.0,70.0,28.0,70.0
+2025,9853_3052,3052,Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco,9853,Educação Básica,35.0,115.3,30.0,14.0,35.0,14.0,35.0
+2025,9853_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,9853,Educação Básica,56.0,150.8,56.0,55.0,56.0,55.0,56.0
+2025,9853_3081,3081,Universidade do Algarve - Escola Superior de Educação e Comunicação,9853,Educação Básica,32.0,147.6,32.0,30.0,32.0,30.0,32.0
+2025,9853_3091,3091,"Instituto Politécnico da Guarda - Escola Superior de Educação, Comunicação e Desporto",9853,Educação Básica,35.0,115.3,27.0,13.0,35.0,13.0,35.0
+2025,9853_3101,3101,Instituto Politécnico de Leiria - Escola Superior de Educação e Ciências Sociais,9853,Educação Básica,72.0,133.7,71.0,60.0,72.0,60.0,72.0
+2025,9853_3112,3112,Instituto Politécnico de Lisboa - Escola Superior de Educação,9853,Educação Básica,90.0,143.4,89.0,85.0,90.0,85.0,90.0
+2025,9853_3121,3121,Instituto Politécnico de Portalegre - Escola Superior de Educação e Ciências Sociais,9853,Educação Básica,25.0,116.0,22.0,15.0,25.0,15.0,25.0
+2025,9853_3131,3131,Instituto Politécnico do Porto - Escola Superior de Educação,9853,Educação Básica,79.0,158.2,78.0,46.0,79.0,46.0,79.0
+2025,9853_3142,3142,Instituto Politécnico de Santarém - Escola Superior de Educação de Santarém,9853,Educação Básica,46.0,131.8,45.0,24.0,46.0,24.0,46.0
+2025,9853_3151,3151,Instituto Politécnico de Setúbal - Escola Superior de Educação,9853,Educação Básica,52.0,138.3,50.0,24.0,52.0,24.0,52.0
+2025,9853_3162,3162,Instituto Politécnico de Viana do Castelo - Escola Superior de Educação,9853,Educação Básica,61.0,138.1,61.0,59.0,61.0,59.0,61.0
+2025,9853_3181,3181,Instituto Politécnico de Viseu - Escola Superior de Educação de Viseu,9853,Educação Básica,52.0,141.0,52.0,39.0,52.0,39.0,52.0
+2025,9855_3092,3092,Instituto Politécnico da Guarda - Escola Superior de Tecnologia e Gestão,9855,Energia e Ambiente,15.0,116.3,3.0,1.0,12.0,1.0,12.0
+2025,9861_7210,7210,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia da Saúde de Coimbra,9861,Saúde Ambiental,32.0,123.3,28.0,19.0,32.0,19.0,32.0
+2025,9861_7220,7220,Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa,9861,Saúde Ambiental,29.0,141.4,28.0,25.0,29.0,25.0,29.0
+2025,9861_7230,7230,Instituto Politécnico do Porto - Escola Superior de Saúde,9861,Saúde Ambiental,35.0,132.5,34.0,33.0,35.0,33.0,35.0
+2025,9862_3152,3152,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal,9862,Tecnologia e Gestão Industrial (regime noturno),40.0,124.3,17.0,7.0,30.0,7.0,30.0
+2025,9866_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,9866,Comércio Internacional (regime pós-laboral),24.0,151.7,24.0,21.0,24.0,21.0,24.0
+2025,9867_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,9867,Comunicação Empresarial (regime pós-laboral),24.0,155.2,24.0,21.0,24.0,21.0,24.0
+2025,9869_3011,3011,Universidade de Aveiro - Instituto Superior de Contabilidade e Administração de Aveiro,9869,Contabilidade (regime pós-laboral),20.0,133.8,19.0,11.0,20.0,11.0,20.0
+2025,9869_3031,3031,Instituto Politécnico do Cávado e do Ave - Escola Superior de Gestão,9869,Contabilidade (regime pós-laboral),29.0,137.2,28.0,19.0,29.0,19.0,29.0
+2025,9870_3117,3117,Instituto Politécnico de Lisboa - Instituto Superior de Contabilidade e Administração de Lisboa,9870,Contabilidade e Administração (regime pós-laboral),100.0,142.2,99.0,95.0,100.0,95.0,100.0
+2025,9870_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,9870,Contabilidade e Administração (regime pós-laboral),51.0,128.5,51.0,49.0,51.0,49.0,51.0
+2025,9873_3033,3033,Instituto Politécnico do Cávado e do Ave - Escola Superior de Design,9873,Design Gráfico (regime pós-laboral),28.0,144.3,28.0,26.0,28.0,26.0,28.0
+2025,9876_3112,3112,Instituto Politécnico de Lisboa - Escola Superior de Educação,9876,Educação Básica (regime pós-laboral),22.0,138.6,21.0,18.0,22.0,18.0,22.0
+2025,9878_3131,3131,Instituto Politécnico do Porto - Escola Superior de Educação,9878,Educação Musical,20.0,142.9,19.0,14.0,20.0,14.0,20.0
+2025,9879_3131,3131,Instituto Politécnico do Porto - Escola Superior de Educação,9879,Educação Social (regime pós-laboral),30.0,142.4,29.0,27.0,30.0,27.0,30.0
+2025,9885_3064,3064,Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra,9885,Engenharia Informática (regime pós-laboral),20.0,142.1,19.0,16.0,20.0,16.0,20.0
+2025,9885_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9885,Engenharia Informática (regime pós-laboral),30.0,125.2,27.0,12.0,30.0,12.0,30.0
+2025,9885_6800,6800,ISCTE - Instituto Universitário de Lisboa,9885,Engenharia Informática (regime pós-laboral),35.0,146.1,34.0,33.0,35.0,33.0,35.0
+2025,9888_3011,3011,Universidade de Aveiro - Instituto Superior de Contabilidade e Administração de Aveiro,9888,Finanças (regime pós-laboral),20.0,136.2,19.0,11.0,20.0,11.0,20.0
+2025,9889_3117,3117,Instituto Politécnico de Lisboa - Instituto Superior de Contabilidade e Administração de Lisboa,9889,Finanças Empresariais (regime pós-laboral),46.0,145.8,46.0,43.0,46.0,43.0,46.0
+2025,9890_3013,3013,Universidade de Aveiro - Escola Superior de Saúde de Aveiro,9890,Terapia da Fala,24.0,141.9,23.0,16.0,24.0,16.0,24.0
+2025,9890_3155,3155,Instituto Politécnico de Setúbal - Escola Superior de Saúde,9890,Terapia da Fala,26.0,143.9,25.0,24.0,26.0,24.0,26.0
+2025,9890_7045,7045,Instituto Politécnico de Leiria - Escola Superior de Saúde,9890,Terapia da Fala,26.0,140.7,25.0,24.0,26.0,24.0,26.0
+2025,9890_7230,7230,Instituto Politécnico do Porto - Escola Superior de Saúde,9890,Terapia da Fala,37.0,142.3,37.0,35.0,37.0,35.0,37.0
+2025,9891_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,9891,Design e Multimédia,74.0,145.3,73.0,70.0,74.0,70.0,74.0
+2025,9894_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,9894,Comunicação e Design Multimédia,38.0,151.8,38.0,36.0,38.0,36.0,38.0
+2025,9898_3042,3042,Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança,9898,Arte e Design,55.0,128.1,53.0,34.0,55.0,34.0,55.0
+2025,9898_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,9898,Arte e Design,32.0,156.9,32.0,30.0,32.0,30.0,32.0
+2025,9904_1502,1502,Universidade de Lisboa - Faculdade de Belas-Artes,9904,Arte Multimédia,73.0,160.6,72.0,69.0,73.0,69.0,73.0
+2025,9910_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,9910,Engenharia de Energias Renováveis,20.0,145.2,3.0,0.0,12.0,0.0,12.0
+2025,9912_1519,1519,Universidade de Lisboa - Instituto Superior Técnico (Tagus Park),9912,Engenharia Eletrónica,34.0,127.6,24.0,15.0,33.0,15.0,33.0
+2025,9914_1506,1506,Universidade de Lisboa - Faculdade de Letras,9914,Estudos Asiáticos,27.0,148.8,26.0,24.0,27.0,24.0,27.0
+2025,9917_0902,902,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,9917,Estudos Portugueses,22.0,143.1,21.0,18.0,22.0,18.0,22.0
+2025,9917_1506,1506,Universidade de Lisboa - Faculdade de Letras,9917,Estudos Portugueses,20.0,145.0,19.0,16.0,20.0,16.0,20.0
+2025,9921_3139,3139,Instituto Politécnico do Porto - Escola Superior de Hotelaria e Turismo,9921,Gestão das Atividades Turísticas,33.0,153.6,33.0,30.0,33.0,30.0,33.0
+2025,9927_6800,6800,ISCTE - Instituto Universitário de Lisboa,9927,História Moderna e Contemporânea,33.0,144.3,33.0,30.0,33.0,30.0,33.0
+2025,9930_3181,3181,Instituto Politécnico de Viseu - Escola Superior de Educação de Viseu,9930,Publicidade e Relações Públicas,67.0,134.3,67.0,65.0,67.0,65.0,67.0
+2025,9933_3042,3042,Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança,9933,Animação e Produção Artística,20.0,121.4,18.0,7.0,20.0,7.0,20.0
+2025,9936_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,9936,Engenharia Mecânica Automóvel,43.0,145.3,43.0,40.0,43.0,40.0,43.0
+2025,9990_3031,3031,Instituto Politécnico do Cávado e do Ave - Escola Superior de Gestão,9990,Fiscalidade (regime pós-laboral),20.0,135.9,19.0,11.0,20.0,11.0,20.0
+2025,9991_3102,3102,Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão,9991,Gestão (regime pós-laboral),25.0,113.3,24.0,22.0,25.0,22.0,25.0
+2025,9991_3117,3117,Instituto Politécnico de Lisboa - Instituto Superior de Contabilidade e Administração de Lisboa,9991,Gestão (regime pós-laboral),87.0,149.7,87.0,85.0,87.0,85.0,87.0
+2025,9993_3153,3153,Instituto Politécnico de Setúbal - Escola Superior de Ciências Empresariais,9993,Gestão da Distribuição e da Logística (regime pós-laboral),47.0,128.8,47.0,46.0,47.0,46.0,47.0
+2025,9994_3023,3023,Instituto Politécnico de Beja - Escola Superior de Tecnologia e de Gestão,9994,Gestão de Empresas (regime pós-laboral),28.0,127.4,3.0,1.0,10.0,1.0,10.0
+2025,9994_3031,3031,Instituto Politécnico do Cávado e do Ave - Escola Superior de Gestão,9994,Gestão de Empresas (regime pós-laboral),29.0,148.4,28.0,19.0,29.0,19.0,29.0
+2025,9994_3143,3143,Instituto Politécnico de Santarém - Escola Superior de Gestão e Tecnologia de Santarém,9994,Gestão de Empresas (regime pós-laboral),24.0,111.9,14.0,2.0,24.0,2.0,24.0
+2025,9994_3182,3182,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu,9994,Gestão de Empresas (regime pós-laboral),35.0,114.2,12.0,4.0,21.0,4.0,21.0
+2025,A001_1517,1517,Universidade de Lisboa - Instituto Superior de Economia e Gestão,A001,Gestão (ensino em Inglês),60.0,172.6,54.0,34.0,60.0,34.0,60.0
+2025,A004_3043,3043,Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança,A004,"Gestão de Negócios Internacionais (Curso Europeu, ensino em Inglês)",50.0,105.5,11.0,5.0,25.0,5.0,25.0
+2025,A006_1517,1517,Universidade de Lisboa - Instituto Superior de Economia e Gestão,A006,Economia (ensino em Inglês),30.0,168.7,29.0,24.0,30.0,24.0,30.0
+2025,A013_1517,1517,Universidade de Lisboa - Instituto Superior de Economia e Gestão,A013,Finanças (ensino em inglês),32.0,161.3,32.0,26.0,32.0,26.0,32.0
+2025,L003_3141,3141,Instituto Politécnico de Santarém - Escola Superior Agrária de Santarém,L003,Zootecnia,37.0,120.4,12.0,5.0,27.0,5.0,27.0
+2025,L008_3145,3145,Instituto Politécnico de Santarém - Escola Superior de Desporto de Rio Maior,L008,Atividade Física e Estilos de Vida Saudáveis,25.0,129.2,24.0,22.0,25.0,22.0,25.0
+2025,L009_3061,3061,Instituto Politécnico de Coimbra - Escola Superior Agrária de Coimbra,L009,Ciências Florestais e Recursos Naturais,19.0,112.0,4.0,1.0,14.0,1.0,14.0
+2025,L010_1502,1502,Universidade de Lisboa - Faculdade de Belas-Artes,L010,Ciências da Arte e do Património,30.0,152.4,29.0,27.0,30.0,27.0,30.0
+2025,L015_3061,3061,Instituto Politécnico de Coimbra - Escola Superior Agrária de Coimbra,L015,Tecnologia Alimentar,26.0,109.4,12.0,5.0,23.0,5.0,23.0
+2025,L021_3012,3012,Universidade de Aveiro - Escola Superior de Tecnologia e Gestão de Águeda,L021,Gestão Comercial,30.0,145.9,29.0,25.0,30.0,25.0,30.0
+2025,L021_3054,3054,Instituto Politécnico de Castelo Branco - Escola Superior de Gestão de Idanha-a-Nova,L021,Gestão Comercial,40.0,117.0,15.0,4.0,38.0,4.0,38.0
+2025,L023_3063,3063,Instituto Politécnico de Coimbra - Instituto Superior de Contabilidade e Administração de Coimbra,L023,Marketing e Negócios Internacionais,57.0,144.9,57.0,56.0,57.0,56.0,57.0
+2025,L024_3061,3061,Instituto Politécnico de Coimbra - Escola Superior Agrária de Coimbra,L024,Tecnologia e Gestão Ambiental,28.0,103.4,12.0,3.0,25.0,3.0,25.0
+2025,L029_3041,3041,Instituto Politécnico de Bragança - Escola Superior Agrária de Bragança,L029,Biologia e Biotecnologia,30.0,118.3,8.0,3.0,15.0,3.0,15.0
+2025,L030_3138,3138,Instituto Politécnico do Porto - Escola Superior de Tecnologia e Gestão,L030,Gestão Industrial e Logística,20.0,156.6,19.0,16.0,20.0,16.0,20.0
+2025,L030_6800,6800,ISCTE - Instituto Universitário de Lisboa,L030,Gestão Industrial e Logística,40.0,154.7,40.0,38.0,40.0,38.0,40.0
+2025,L034_3145,3145,Instituto Politécnico de Santarém - Escola Superior de Desporto de Rio Maior,L034,"Desporto, Condição Física e Saúde",90.0,129.1,88.0,54.0,90.0,54.0,90.0
+2025,L035_3117,3117,Instituto Politécnico de Lisboa - Instituto Superior de Contabilidade e Administração de Lisboa,L035,Comércio e Negócios Internacionais (regime pós-laboral),56.0,145.8,56.0,55.0,56.0,55.0,56.0
+2025,L040_1513,1513,Universidade de Lisboa - Instituto de Educação,L040,Educação e Formação,72.0,138.9,72.0,69.0,72.0,69.0,72.0
+2025,L041_0150,150,Universidade dos Açores - Faculdade de Ciências Sociais e Humanas,L041,Estudos Portugueses e Ingleses,24.0,145.3,24.0,21.0,24.0,21.0,24.0
+2025,L047_0604,604,Universidade de Évora - Escola de Ciências Sociais,L047,Línguas e Literaturas,53.0,144.7,53.0,51.0,53.0,51.0,53.0
+2025,L052_3118,3118,Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa,L052,Engenharia Informática e Multimédia,88.0,137.7,88.0,85.0,88.0,85.0,88.0
+2025,L056_3063,3063,Instituto Politécnico de Coimbra - Instituto Superior de Contabilidade e Administração de Coimbra,L056,Comércio e Relações Económicas Internacionais,35.0,143.3,34.0,33.0,35.0,33.0,35.0
+2025,L066_3013,3013,Universidade de Aveiro - Escola Superior de Saúde de Aveiro,L066,Imagem Médica e Radioterapia,25.0,150.4,25.0,23.0,25.0,23.0,25.0
+2025,L066_7020,7020,Instituto Politécnico de Castelo Branco - Escola Superior de Saúde Dr. Lopes Dias,L066,Imagem Médica e Radioterapia,24.0,143.3,24.0,21.0,24.0,21.0,24.0
+2025,L066_7035,7035,Universidade do Algarve - Escola Superior de Saúde,L066,Imagem Médica e Radioterapia,30.0,139.9,29.0,27.0,30.0,27.0,30.0
+2025,L066_7210,7210,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia da Saúde de Coimbra,L066,Imagem Médica e Radioterapia,37.0,145.6,37.0,35.0,37.0,35.0,37.0
+2025,L066_7220,7220,Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa,L066,Imagem Médica e Radioterapia,64.0,150.8,63.0,61.0,64.0,61.0,64.0
+2025,L066_7230,7230,Instituto Politécnico do Porto - Escola Superior de Saúde,L066,Imagem Médica e Radioterapia,61.0,143.2,61.0,59.0,61.0,59.0,61.0
+2025,L067_7020,7020,Instituto Politécnico de Castelo Branco - Escola Superior de Saúde Dr. Lopes Dias,L067,Fisiologia Clínica,26.0,146.6,25.0,24.0,26.0,24.0,26.0
+2025,L067_7210,7210,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia da Saúde de Coimbra,L067,Fisiologia Clínica,38.0,155.0,38.0,36.0,38.0,36.0,38.0
+2025,L067_7220,7220,Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa,L067,Fisiologia Clínica,43.0,157.9,43.0,40.0,43.0,40.0,43.0
+2025,L067_7230,7230,Instituto Politécnico do Porto - Escola Superior de Saúde,L067,Fisiologia Clínica,48.0,155.3,48.0,47.0,48.0,47.0,48.0
+2025,L068_7015,7015,Instituto Politécnico de Bragança - Escola Superior de Saúde de Bragança,L068,Ciências Biomédicas Laboratoriais,50.0,129.8,30.0,15.0,48.0,15.0,48.0
+2025,L068_7020,7020,Instituto Politécnico de Castelo Branco - Escola Superior de Saúde Dr. Lopes Dias,L068,Ciências Biomédicas Laboratoriais,32.0,140.9,28.0,19.0,32.0,19.0,32.0
+2025,L068_7035,7035,Universidade do Algarve - Escola Superior de Saúde,L068,Ciências Biomédicas Laboratoriais,27.0,155.6,26.0,24.0,27.0,24.0,27.0
+2025,L068_7210,7210,Instituto Politécnico de Coimbra - Escola Superior de Tecnologia da Saúde de Coimbra,L068,Ciências Biomédicas Laboratoriais,38.0,160.6,38.0,36.0,38.0,36.0,38.0
+2025,L068_7220,7220,Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa,L068,Ciências Biomédicas Laboratoriais,61.0,162.7,61.0,59.0,61.0,59.0,61.0
+2025,L068_7230,7230,Instituto Politécnico do Porto - Escola Superior de Saúde,L068,Ciências Biomédicas Laboratoriais,60.0,165.4,60.0,58.0,60.0,58.0,60.0
+2025,L069_3043,3043,Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança,L069,Tecnologia Biomédica,40.0,108.0,10.0,6.0,13.0,6.0,13.0
+2025,L069_3152,3152,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal,L069,Tecnologia Biomédica,49.0,135.6,49.0,48.0,49.0,48.0,49.0
+2025,L070_3134,3134,Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto,L070,Criatividade e Inovação Empresarial,32.0,161.4,32.0,30.0,32.0,30.0,32.0
+2025,L071_3331,3331,Instituto Politécnico do Porto - Escola Superior de Media Artes e Design,L071,Tecnologias e Sistemas de Informação para a Web,34.0,114.4,32.0,16.0,34.0,16.0,34.0
+2025,L079_1503,1503,Universidade de Lisboa - Faculdade de Ciências,L079,Tecnologias de Informação,65.0,146.8,64.0,62.0,65.0,62.0,65.0
+2025,L080_3141,3141,Instituto Politécnico de Santarém - Escola Superior Agrária de Santarém,L080,Qualidade Alimentar e Nutrição Humana,27.0,117.8,15.0,10.0,20.0,10.0,20.0
+2025,L085_3118,3118,Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa,L085,Tecnologias e Gestão Municipal,23.0,126.6,23.0,21.0,23.0,21.0,23.0
+2025,L088_3042,3042,Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança,L088,Relações Lusófonas e Língua Portuguesa,25.0,120.0,3.0,1.0,6.0,1.0,6.0
+2025,L089_3135,3135,Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto,L089,Biorrecursos,28.0,145.8,28.0,26.0,28.0,26.0,28.0
+2025,L090_0602,602,Universidade de Évora - Escola de Ciências e Tecnologia,L090,Ecologia e Ambiente,14.0,106.5,5.0,2.0,14.0,2.0,14.0
+2025,L091_3138,3138,Instituto Politécnico do Porto - Escola Superior de Tecnologia e Gestão,L091,Segurança do Trabalho e Ambiente,20.0,131.2,19.0,16.0,20.0,16.0,20.0
+2025,L093_3051,3051,Instituto Politécnico de Castelo Branco - Escola Superior Agrária de Castelo Branco,L093,Biotecnologia Alimentar,18.0,112.7,5.0,2.0,14.0,2.0,14.0
+2025,L095_3062,3062,Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra,L095,Gastronomia,20.0,127.4,19.0,16.0,20.0,16.0,20.0
+2025,L096_1103,1103,Universidade do Porto - Faculdade de Ciências,L096,Engenharia Geoespacial,23.0,130.7,5.0,1.0,14.0,1.0,14.0
+2025,L096_1503,1503,Universidade de Lisboa - Faculdade de Ciências,L096,Engenharia Geoespacial,20.0,122.2,16.0,3.0,20.0,3.0,20.0
+2025,L097_1506,1506,Universidade de Lisboa - Faculdade de Letras,L097,Estudos Comparatistas,20.0,131.0,17.0,13.0,20.0,13.0,20.0
+2025,L099_3101,3101,Instituto Politécnico de Leiria - Escola Superior de Educação e Ciências Sociais,L099,Comunicação e Media,40.0,147.2,40.0,38.0,40.0,38.0,40.0
+2025,L100_3154,3154,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia do Barreiro,L100,Tecnologias do Petróleo,31.0,107.9,21.0,12.0,30.0,12.0,30.0
+2025,L101_7040,7040,Instituto Politécnico da Guarda - Escola Superior de Saúde da Guarda,L101,Biotecnologia Medicinal,25.0,115.1,13.0,3.0,19.0,3.0,19.0
+2025,L101_7230,7230,Instituto Politécnico do Porto - Escola Superior de Saúde,L101,Biotecnologia Medicinal,32.0,175.5,32.0,24.0,32.0,24.0,32.0
+2025,L109_0505,505,Universidade de Coimbra - Faculdade de Letras,L109,"Turismo, Território e Patrimónios",33.0,144.9,33.0,30.0,33.0,30.0,33.0
+2025,L116_3186,3186,Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Lamego,L116,Secretariado de Administração,36.0,109.6,21.0,13.0,28.0,13.0,28.0
+2025,L117_3118,3118,Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa,L117,Matemática Aplicada à Tecnologia e à Empresa,29.0,142.7,28.0,25.0,29.0,25.0,29.0
+2025,L119_3118,3118,Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa,L119,"Engenharia Informática, Redes e Telecomunicações",36.0,142.7,36.0,35.0,36.0,35.0,36.0
+2025,L122_3162,3162,Instituto Politécnico de Viana do Castelo - Escola Superior de Educação,L122,Artes Plásticas e Tecnologias Artísticas,30.0,135.3,29.0,25.0,30.0,25.0,30.0
+2025,L123_0203,203,Universidade do Algarve - Faculdade de Ciências e Tecnologia,L123,Gestão Marinha e Costeira,28.0,127.1,27.0,18.0,28.0,18.0,28.0
+2025,L124_3152,3152,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal,L124,Tecnologias do Ambiente e do Mar,32.0,125.9,32.0,29.0,32.0,29.0,32.0
+2025,L127_3103,3103,Instituto Politécnico de Leiria - Escola Superior de Artes e Design,L127,Programação e Produção Cultural,21.0,120.8,19.0,13.0,21.0,13.0,21.0
+2025,L130_3142,3142,Instituto Politécnico de Santarém - Escola Superior de Educação de Santarém,L130,Educação Ambiental e Turismo de Natureza,35.0,116.7,13.0,4.0,31.0,4.0,31.0
+2025,L131_3105,3105,Instituto Politécnico de Leiria - Escola Superior de Turismo e Tecnologia do Mar,L131,Gestão da Restauração e Catering,18.0,118.7,9.0,4.0,13.0,4.0,13.0
+2025,L131_3139,3139,Instituto Politécnico do Porto - Escola Superior de Hotelaria e Turismo,L131,Gestão da Restauração e Catering,30.0,138.4,29.0,27.0,30.0,27.0,30.0
+2025,L134_3112,3112,Instituto Politécnico de Lisboa - Escola Superior de Educação,L134,Mediação Artística e Cultural,28.0,142.1,27.0,20.0,28.0,20.0,28.0
+2025,L138_3014,3014,"Universidade de Aveiro - Escola Superior de Design, Gestão e Tecnologia da Produção de Aveiro-Norte",L138,Design de Produto e Tecnologia,38.0,140.9,38.0,36.0,38.0,36.0,38.0
+2025,L140_3012,3012,Universidade de Aveiro - Escola Superior de Tecnologia e Gestão de Águeda,L140,Gestão Pública,19.0,137.5,18.0,10.0,19.0,10.0,19.0
+2025,L140_3031,3031,Instituto Politécnico do Cávado e do Ave - Escola Superior de Gestão,L140,Gestão Pública,40.0,141.1,40.0,38.0,40.0,38.0,40.0
+2025,L142_3242,3242,Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar,L142,Tecnologia Química,20.0,131.0,3.0,1.0,5.0,1.0,5.0
+2025,L143_3243,3243,Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Abrantes,L143,Informática e Tecnologias Multimédia,26.0,147.2,4.0,2.0,12.0,2.0,12.0
+2025,L150_1306,1306,Universidade da Madeira - Faculdade de Artes e Humanidades,L150,Estudos de Cultura,34.0,105.4,31.0,18.0,34.0,18.0,34.0
+2025,L153_3163,3163,Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão,L153,Engenharia de Redes e Sistemas de Computadores,45.0,116.0,18.0,5.0,43.0,5.0,43.0
+2025,L155_3064,3064,Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra,L155,Gestão Sustentável das Cidades,31.0,128.0,31.0,29.0,31.0,29.0,31.0
+2025,L158_3055,3055,Instituto Politécnico de Castelo Branco - Escola Superior de Artes Aplicadas,L158,Design de Comunicação e Audiovisual,60.0,118.8,60.0,58.0,60.0,58.0,60.0
+2025,L161_7220,7220,Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa,L161,Ortóptica e Ciências da Visão,36.0,145.3,36.0,35.0,36.0,35.0,36.0
+2025,L162_1518,1518,Universidade de Lisboa - Instituto Superior Técnico,L162,Engenharia Naval e Oceânica,30.0,164.3,29.0,27.0,30.0,27.0,30.0
+2025,L167_0903,903,Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia,L167,Matemática Aplicada à Gestão do Risco,22.0,170.3,21.0,18.0,22.0,18.0,22.0
+2025,L178_3061,3061,Instituto Politécnico de Coimbra - Escola Superior Agrária de Coimbra,L178,Turismo em Espaços Rurais e Naturais,38.0,104.2,14.0,3.0,38.0,3.0,38.0
+2025,L179_3142,3142,Instituto Politécnico de Santarém - Escola Superior de Educação de Santarém,L179,Produção Multimédia em Educação,27.0,117.2,25.0,18.0,27.0,18.0,27.0
+2025,L181_3032,3032,Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia,L181,Engenharia Informática Médica,26.0,126.4,25.0,24.0,26.0,24.0,26.0
+2025,L188_6800,6800,ISCTE - Instituto Universitário de Lisboa,L188,Ciência de Dados,60.0,159.5,60.0,58.0,60.0,58.0,60.0
+2025,L189_6800,6800,ISCTE - Instituto Universitário de Lisboa,L189,Ciência de Dados (regime pós-laboral),30.0,146.0,29.0,27.0,30.0,27.0,30.0
+2025,L192_0501,501,Universidade de Coimbra - Faculdade de Ciências e Tecnologia,L192,Engenharia e Ciência de Dados,40.0,148.6,40.0,38.0,40.0,38.0,40.0
+2025,L193_1203,1203,Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia,L193,Matemática Aplicada e Ciência de Dados,20.0,121.0,15.0,9.0,19.0,9.0,19.0
+2025,L194_3012,3012,Universidade de Aveiro - Escola Superior de Tecnologia e Gestão de Águeda,L194,Eletrónica e Mecânica Industrial,35.0,132.9,34.0,30.0,35.0,30.0,35.0
+2025,L207_3241,3241,Instituto Politécnico de Tomar - Escola Superior de Gestão de Tomar,L207,Turismo e Gestão do Património Cultural,35.0,123.2,15.0,5.0,35.0,5.0,35.0
